@@ -7,21 +7,28 @@ title: Template title
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/main.css">
 
     <title>{{ title }}</title>
   </head>
   <body>
     <header>
-      Header text
+      <div class="block">
+        <img id="logo" src="assets/img/logo.png" />
+      </div>
     </header>
     <nav>
-      Nav text
+      <div class="block">
+        Nav text
+      </div>
     </nav>
     <main>
       {{ content | safe }}
     </main>
     <footer>
-      Footer text
+      <div class="block">
+        Footer text
+      </div>
     </footer>
   </body>
 </html>

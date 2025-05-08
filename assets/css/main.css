@@ -1,0 +1,41 @@
+body {
+  margin: 0; padding: 0;
+}
+.block {
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+/* header */
+header {
+  min-height: 100px;
+}
+#logo {
+  width: 200px;
+}
+
+/* nav */
+nav {
+  background-color: #232E5E;
+  color: white;
+}
+
+/* sizes */
+@media (min-width: 600px) {
+  .block {
+    max-width: 530px;
+    margin: auto;
+  }
+}
+@media (min-width: 800px) {
+  .block {
+    max-width: 730px;
+    margin: auto;
+  }
+}
+@media (min-width: 1000px) {
+  .block {
+    max-width: 930px;
+    margin: auto;
+  }
+}
