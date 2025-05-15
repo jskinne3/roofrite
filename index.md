@@ -12,3 +12,9 @@ Index page text
 ```
 fence
 ```
+
+<div class="blkbck">
+  test
+</div>
+
+more content

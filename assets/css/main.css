@@ -1,7 +1,11 @@
-body {
+/* content margins */
+body, html {
   margin: 0; padding: 0;
 }
-.block {
+nav > div,
+footer > div,
+header > div,
+main > p {
   margin-left: 5vw;
   margin-right: 5vw;
 }
@@ -20,7 +24,18 @@ nav {
   color: white;
 }
 
+/* hero */
+video {
+  height: 600px;
+  width: 100vw;
+  object-fit: cover;
+}
+
+
+
+
 /* sizes */
+/*
 @media (min-width: 600px) {
   .block {
     max-width: 530px;
@@ -39,3 +54,4 @@ nav {
     margin: auto;
   }
 }
+*/
