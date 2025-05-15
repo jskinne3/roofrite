@@ -11,6 +11,8 @@ title: Template title
     <link href="https://fonts.googleapis.com/css?family=Lato|Public+Sans" rel="stylesheet">
 
     <title>{{ title }}</title>
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="assets/img/logo.png" />
   </head>
   <body>
     <header class="logo-header">
@@ -36,13 +38,11 @@ title: Template title
       <source src="assets/vid/hero.webm" type="video/webm">
     </video>
     <header class="viewport-header">
-      <h1>
-        The trusted source for all your exterior needs
-      </h1>
+      <h1>{{ description }}</h1>
     </header>
 
     <section class="motto">
-      <p>We are who we are because of our wonderful staff and the fine people we serve. As such, we commit ourselves to the education of our employees, and to a smooth and thorough workflow for all our customers. We're told it shows, too.</p>
+      <p>{{ motto }}</p>
     </section>
 
     <main>
