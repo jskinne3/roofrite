@@ -6,6 +6,8 @@ nav > ul,
 footer > div,
 header > div,
 main > p,
+main > div,
+main > figure,
 main > h2,
 section > p {
   margin-left: 5vw;
@@ -85,6 +87,16 @@ video {
   color: white;
 }
 
+/* main */
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.rightfig > img {
+  max-width: 87vw;
+}
+
 /* sections */
 
 .motto {
@@ -98,8 +110,11 @@ video {
 
 @media (min-width: 800px) {
   /* body {background-color: green;} */
-  nav > ul {
+  nav > ul, main {
     flex-direction: row;
+  }
+  .rightfig > img {
+    max-width: 50vw;
   }
 }
 
