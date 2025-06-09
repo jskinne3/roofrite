@@ -91,7 +91,12 @@ video {
 main {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  line-height: 2em;
+}
+main > div {
+  max-width: 600px;
 }
 .rightfig > img {
   max-width: 87vw;
@@ -104,6 +109,7 @@ main {
   padding: 50px;
   text-align: center;
   font-size: larger;
+  line-height: 2em;
 }
 
 /* sizes */
@@ -114,7 +120,7 @@ main {
     flex-direction: row;
   }
   .rightfig > img {
-    max-width: 50vw;
+    max-width: 450px;
   }
 }
 
