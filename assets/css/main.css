@@ -16,7 +16,7 @@ section > p {
 
 /* fonts */
 .viewport-header > h1 {
-  font-family: 'Lato';
+  font-family: 'Lato', sans-serif;
   font-size: 10vw;
   text-shadow: 2px 2px 6px black;
   max-width: 65vw;
@@ -100,6 +100,10 @@ main > div {
 }
 .rightfig > img {
   max-width: 87vw;
+}
+h2 {
+  font-size: 30pt;
+  line-height: 1.3em;
 }
 
 /* sections */
