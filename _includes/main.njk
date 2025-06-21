@@ -16,19 +16,10 @@ template: extender.njk
     <meta property="og:image" content="/assets/img/logo.png" />
   </head>
   <body>
-    <header class="logo-header">
-      <div>
-        <img id="logo" src="/assets/img/logo.png" />
-      </div>
-      <div id="contact">
-        &#128222; 402-430-9538
-        <span class="button">Contact us</span>
-      </div>
-    </header>
 
-    <nav>
-      {% include "nav.njk" %}
-    </nav>
+    {% include "header.njk" %}
+
+    {% include "nav.njk" %}
 
     <video playsinline autoplay muted loop poster="/assets/img/hero.png" id="bgvid">
       <source src="/assets/vid/hero.webm" type="video/webm">
@@ -49,7 +40,7 @@ template: extender.njk
         <img src="/assets/img/cropped-Roof-Rite-Exteriors-Lincoln-Nebraska-3.jpg" />
       </figure>
     </main>
-    
+
     <footer>
       <div class="block">
         Footer text
