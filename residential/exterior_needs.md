@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - All Your Exterior Needs"
-description: "The trusted source for all your exterior needs"
+title: "All Your Exterior Needs"
 ---
 
 ## All Your Exterior Needs

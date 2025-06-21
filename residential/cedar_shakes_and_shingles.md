@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Cedar Shakes and Shingles"
-description: "The trusted source for all your exterior needs"
+title: "Cedar Shakes and Shingles"
 ---
 
 ## Cedar Shakes and Shingles

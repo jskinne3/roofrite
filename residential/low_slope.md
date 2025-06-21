@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Low Slope"
-description: "The trusted source for all your exterior needs"
+title: "Commercial and Residential Low Slope"
 ---
 
 ## Commercial and Residential Low Slope

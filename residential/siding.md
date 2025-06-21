@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Siding"
-description: "The trusted source for all your exterior needs"
+title: "Siding"
 ---
 
 ## Siding

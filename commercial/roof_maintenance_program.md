@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Windows"
-description: "The trusted source for all your exterior needs"
+title: "Roofing Maintenance Program"
 ---
 
 ## What is an RMP?

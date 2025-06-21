@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Multi-Family Exteriors"
-description: "The trusted source for all your exterior needs"
+title: "Multi-Family Exteriors"
 ---
 
 ## Multi-Family Exteriors: Our Dedication

@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Our Clean Jobstie Promise"
-description: "The trusted source for all your exterior needs"
+title: "Our Clean Jobstie Promise"
 ---
 
 ## Our Clean Jobstie Promise

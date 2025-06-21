@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Gutter Guards"
-description: "The trusted source for all your exterior needs"
+title: "Gutter Guards"
 ---
 
 ## Gutter Guards

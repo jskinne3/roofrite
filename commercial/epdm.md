@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - EPDM: Durable, Weather-Resistant, Traditional"
-description: "The trusted source for all your exterior needs"
+title: "EPDM: Durable, Weather-Resistant, Traditional"
 ---
 
 ## EPDM: Durable, Weather-Resistant, Traditional

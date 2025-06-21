@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Metal Roofing"
-description: "The trusted source for all your exterior needs"
+title: "Metal Roofing"
 ---
 
 ### Relentlessly Enduring

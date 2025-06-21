@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Elastomeric Coatings"
-description: "The trusted source for all your exterior needs"
+title: "Elastomeric Coatings"
 ---
 
 ### Flexible & Cost Effective

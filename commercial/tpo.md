@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - TPO: Energy-Efficient and Environmentally Friendly"
-description: "The trusted source for all your exterior needs"
+title: "TPO: Energy-Efficient and Environmentally Friendly"
 ---
 
 ## TPO: Energy-Efficient and Environmentally Friendly

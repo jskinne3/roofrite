@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Historical Buildings & Religious Structures"
-description: "The trusted source for all your exterior needs"
+title: "Historical Buildings & Religious Structures"
 ---
 
 ## Historical Buildings & Religious Structures

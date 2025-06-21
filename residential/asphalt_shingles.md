@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Asphalt Shingles"
-description: "The trusted source for all your exterior needs"
+title: "Asphalt Shingles"
 ---
 
 ## Asphalt Shingles

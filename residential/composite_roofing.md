@@ -1,7 +1,6 @@
 ---
 layout: page.njk
 title: "Composite Roofing"
-description: "The trusted source for all your exterior needs"
 ---
 
 ## Composite Roofing

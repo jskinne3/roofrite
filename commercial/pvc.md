@@ -1,7 +1,6 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - PVC: Long-Lasting and Low-Maintenence"
-description: "The trusted source for all your exterior needs"
+title: "PVC: Long-Lasting and Low-Maintenence"
 ---
 
 ## PVC: Long-Lasting and Low-Maintenence
