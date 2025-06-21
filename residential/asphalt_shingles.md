@@ -1,10 +1,10 @@
 ---
 layout: page.njk
-title: "Roof Rite Exteriors - Asphalt shingles"
+title: "Roof Rite Exteriors - Asphalt Shingles"
 description: "The trusted source for all your exterior needs"
 ---
 
-## Asphalt shingles
+## Asphalt Shingles
 
 Classic asphalt shingles are an effective and affordable way of protecting your home or office. Their easy installment and reliability have made them one of the most trusted roofing materials worldwide.
 

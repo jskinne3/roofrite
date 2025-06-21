@@ -1,0 +1,12 @@
+---
+layout: page.njk
+title: "Roof Rite Exteriors - Our Clean Jobstie Promise"
+description: "The trusted source for all your exterior needs"
+---
+
+## Our Clean Jobstie Promise
+
+We've been in the industry for long enough to know that installing a new roof can be a messy process. While you can never eliminate the mess
+entirely, our customers know that a new roof doesn't have to be an inconvenience.
+
+We've taken steps to ensure that our job sites are clean, and our customer's property is safe.
