@@ -1,5 +1,6 @@
 ---
 title: Template title
+template: extender.njk
 ---
 
 <!doctype html>
@@ -24,16 +25,9 @@ title: Template title
         <span class="button">Contact us</span>
       </div>
     </header>
+
     <nav>
-      <ul>
-        <li>About Us</li>
-        <li>Residential</li>
-          <li><a href="/residential/asphalt_shingles">Asphalt shingles</a></li>
-          <li><a href="/residential/low_slope">Commercial and Residential Low Slope</a></li>
-        <li>Commercial</li>
-        <li>Contact Us</li>
-        <li>Request a Quote</li>
-      </ul>
+      {% include "nav.njk" %}
     </nav>
 
     <video playsinline autoplay muted loop poster="/assets/img/hero.png" id="bgvid">
@@ -55,6 +49,7 @@ title: Template title
         <img src="/assets/img/cropped-Roof-Rite-Exteriors-Lincoln-Nebraska-3.jpg" />
       </figure>
     </main>
+    
     <footer>
       <div class="block">
         Footer text
