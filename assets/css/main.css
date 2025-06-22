@@ -126,6 +126,7 @@ video, .hero_image {
   width: 100vw;
   object-fit: cover;
   position: absolute;
+  background-color: #333;
 }
 .viewport-header {
   position: relative;
