@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Metal Roofing"
+hero_image: "/assets/img/DJI_0016.jpg"
+hero_alt: "An in-progress aerial photo of Roof Rite installing a new Central States, Horizon-Loc, metal roof in forrest green, on a large, log-cabin house out in the Missouri countryside."
 ---
 
 ## Metal Roofing
