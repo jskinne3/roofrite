@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Elastomeric Coatings"
+hero_image: "/assets/img/DJI_0165.jpg"
+hero_alt: "Mid-range view of a commercial building with a newly coated white elastomeric roof. The structure is labeled 'Aqua Systems.' Several orange safety cones and workers in safety gear are present on the roof. The background shows industrial buildings and large grain silos under a clear blue sky."
 ---
 
 ### Flexible & Cost Effective

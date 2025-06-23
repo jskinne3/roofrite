@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Roofing Maintenance Program"
+hero_image: "/assets/img/DJI_0171-1.jpg"
+hero_alt: "High angle aerial view of the Arbor Day Farm Tree Adventure building, featuring a vibrant GAF Timberline HDZ roof in Patriot Red, installed by Roof Rite. Surrounded by winding paths, gardens, and tree-lined trails, the red roof adds a striking contrast to the lush green landscape."
 ---
 
 ## What is an RMP?

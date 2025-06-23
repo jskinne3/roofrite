@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Low Slope Membrane"
+hero_image: "/assets/img/DJI_0477.jpg"
+hero_alt: "Aerial top-down view of Roof Rite's flat roof installation in progress using Carlisle EPDM Membrane. Roofing workers, tools, cones, and roof accessories are spread across the surface. Neighboring gravel and shingle roofs provide contrast. The building is adjacent to a house and parking area with vehicles and bike stalls."
 ---
 
 ### Minimalist & Efficient
