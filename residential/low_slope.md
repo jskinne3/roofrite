@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Commercial and Residential Low Slope"
+hero_image: "/assets/img/DJI_0175.jpg"
+hero_alt: "A Roof Rite crew member in a high-visibility shirt installs a white TPO membrane on a flat commercial roof. The insulation boards beneath are marked and fastened with places and screws. Paint roller that is used to fully adhere the TPO lies in the foreground, and nearby rooftops and trees are visible in the background under a partly cloudy sky."
 ---
 
 ## Commercial and Residential Low Slope

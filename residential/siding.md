@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Siding"
+hero_image: "/assets/img/IMG_7144.JPG"
+hero_alt: "Front view of a two-story home with beige siding, green trim, and a deep red front door. The newly installed roof, completed by Roof Rite, features dark asphalt shingles that complement the house’s vintage charm. Bare trees frame the house, suggesting late fall or early winter, with dried leaves scattered across the lawn and walkway."
 ---
 
 ## Siding

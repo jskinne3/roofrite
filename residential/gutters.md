@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Gutters"
+hero_image: "/assets/img/IMG_1620.png"
+hero_alt: "Roof Rite installed seamless K-style aluminum gutters and downspouts in a dark bronze finish to complement the home's trim and siding, ensuring efficient water management with a clean, modern look.."
 ---
 
 ## Gutters

@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Asphalt Shingles"
+hero_image: "/assets/img/GNJM2526.JPG"
+hero_alt: "Rear view of a large two-story lakefront home with a brown presidential, designer shingle roof installed by Roof Rite. The house features warm-toned horizontal lap siding, expansive windows, and a covered balcony overlooking a private sandy beach area. Landscaping includes a stone retaining wall, potted flowering plants, neatly trimmed lawn, and several lounge chairs placed on the sand under a blue sky with scattered clouds."
 ---
 
 ## Asphalt Shingles

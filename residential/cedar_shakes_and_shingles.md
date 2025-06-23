@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Cedar Shakes and Shingles"
+hero_image: "/assets/img/DJI_0322_1.jpg"
+hero_alt: "Elegant residential home with freshly installed natural cedar shake roofing installed by Roof Rite, in an established, wooded area. The roofline and victorian turret complement the home's arched windows, gray stucco walls, and stone chimney. Surrounded by tall trees and landscaped greenery, the cedar shakes add a warm, classic aesthetic to the property."
 ---
 
 ## Cedar Shakes and Shingles

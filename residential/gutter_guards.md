@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Gutter Guards"
+hero_image: "/assets/img/IMG_1775.jpeg"
+hero_alt: "Close-up of a damaged aluminum gutter with a Gutter RX gutter guards and snow accumulation on the roof above."
 ---
 
 ## Gutter Guards
