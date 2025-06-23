@@ -30,6 +30,12 @@ section > p {
 h2 {
   font-family: 'Lato';
 }
+strong {
+  background-color: #232E5E;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 /* header */
 .logo-header {

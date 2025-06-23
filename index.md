@@ -7,8 +7,14 @@ motto: "We are who we are because of our wonderful staff and the fine people we 
 
 ## About us
 
-We are certified contractors for many of North America’s largest and most trusted roofing manufacturers, including [GAF](https://www.gaf.com/en-us/roofing-contractors/residential/usa/ne/lincoln/roof-rite-exteriors-1113822), [Malarkey](https://www.malarkeyroofing.com/company-profile?company=Roof%2BRite%2BExteriors), [Lomanco](https://www.lomanco.com/), and [Gaco](https://gaco.com/). We are also members of the Apartment Association of Nebraska, and both the [Midwestern](https://mrca.org/aws/MRCA/pt/sp/home_page) and [National Roofing Contractors Associations](https://www.nrca.net/). These organizations help to keep us current, connected, and knowledgeable so that we can bring you the best exterior solutions available.
+Roof Rite is a premier national exteriors contractor based in Lincoln, Nebraska. We offer a **comprehensive suite of exterior services**, including but not limited to: low and steep slope roofing, structural wood framing and masonry, residential and commercial gutter systems, exterior siding, painting and staining, doors and windows, & tuckpointing and aesthetic masonry repairs.
 
-At Roof Rite, we pride ourselves on providing comprehensive roofing systems. Not all roofing materials are made equally, and not all roofing products work equally well together. We don’t window shop; we use exclusive manufacturers for roofing materials that are designed to work well with one another.
+Our team of skilled professionals is committed to ensuring that each project is completed on time, within budget, and to the highest standards of quality.
 
-This keeps issues to a minimum, and makes repairs and maintenance easier to assess. It also allows us to offer the best warranties in the industry for a variety of roofing options.
+Roof Rite started as a small residential roofing company in Lincoln, NE with a simple goal in mind: to provide quality roofing services to homeowners and businesses in the local community. We saw the need for a consistent, dependable roofing company in an ever-inconsistent industry.
+
+With each project we standardized our roofing process. As time went on though, both the size and scope of those projects would change, dramatically. We found that our customers required more than roofing,and would seek us out from farther than Nebraska's borders.
+
+While we found our start in roofing, **we've grown to offer a wide range of exterior services**. Each new trade gave us the opportunity to accommodate the needs of more businesses, and it's earned us a reputation.
+
+We've steadily grown from a midwestern roofing company, to a nationally recognized exteriors contractor, and we're excited to take our grain-belt craftsmanship and customer service to further reaches of the country.
