@@ -183,6 +183,12 @@ footer {
   background-color: silver;
 }
 
+/* hamburger */
+.hiddennav {
+  display: none;
+}
+
+
 /* sizes */
 
 @media (min-width: 800px) {
@@ -203,4 +209,6 @@ footer {
   /* body {background-color: blue;} */
   .viewport-header > h1 {font-size: 6vw;}
   #contact{display: inline;}
+  #hamburger{display: none;}
+  .hiddennav{display: flex;}
 }

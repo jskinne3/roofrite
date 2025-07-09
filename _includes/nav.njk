@@ -1,4 +1,4 @@
-<nav>
+<nav id="mainnav" class="hiddennav">
   <div class="dropdown">
     <button class="dropbtn">About Us</button>
     <div class="dropdown-content">
@@ -38,3 +38,14 @@
     </div>
   </div>
 </nav>
+<script>
+  function hamburgerHelper() {
+    var x = document.getElementById("mainnav");
+    if (x.classList.contains('hiddennav')) {
+      x.classList.remove('hiddennav')
+    } else {
+      x.classList.add('hiddennav')
+    }
+  } 
+
+</script>
