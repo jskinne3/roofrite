@@ -184,10 +184,13 @@ footer {
 }
 
 /* hamburger */
+
 .hiddennav {
   display: none;
 }
-
+#hamburger {
+  margin-top: 40px;
+}
 
 /* sizes */
 
