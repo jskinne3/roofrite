@@ -57,6 +57,19 @@ strong {
   padding: 10px;
   margin-left: 20px;
 }
+#hamburger {
+  min-height: 100%;
+  margin-right: 0;
+  padding: 30px 25px 0 20px;
+  background-color: none;
+}
+/* classes added or removed by hamburger button */
+.hiddennav {
+  display: none;
+}
+.hamhlight {
+  background-color: #9BA5D4;
+}
 
 
 /* nav */
@@ -186,15 +199,6 @@ footer {
   position: relative;
   padding: 30px;
   background-color: silver;
-}
-
-/* hamburger */
-
-.hiddennav {
-  display: none;
-}
-#hamburger {
-  margin-top: 40px;
 }
 
 /* sizes */

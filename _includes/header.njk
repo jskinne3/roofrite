@@ -13,4 +13,17 @@
       <img src="/assets/img/hamburger.svg" />
     </a>
   </div>
+  <script>
+    function hamburgerHelper() {
+      const nav = document.getElementById("mainnav");
+      const ham = document.getElementById("hamburger");
+      if (nav.classList.contains('hiddennav')) {
+        nav.classList.remove('hiddennav')
+        ham.classList.add('hamhlight')
+      } else {
+        nav.classList.add('hiddennav')
+        ham.classList.remove('hamhlight')
+      }
+    } 
+  </script>
 </header>
