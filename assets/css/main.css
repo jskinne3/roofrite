@@ -193,17 +193,18 @@ h2 {
 }
 .cardrow {
   display: flex; 
-  justify-content: space-between;
+  justify-content: center;
   flex-direction: column;
   gap: 30px;
 }
 .card {
   flex-grow: 1;
   flex-shrink: 1;
-  border: 1px solid black;
+  border: 1px solid #999;
   text-align: left;
   padding: 20px;
-  flex-shrink: 1;
+  background-color: white;
+
 }
 
 /* images */
@@ -234,9 +235,13 @@ footer {
     flex-direction: row;
     justify-content: flex-end;
   }
+  .card {
+    max-width: 40%; */
+
+  }
   .cardrow {
     flex-direction: row;
-    background-color: blue;
+    flex-wrap: wrap;
   }
 }
 
@@ -246,5 +251,4 @@ footer {
   #contact{display: inline;}
   #hamburger{display: none;}
   .hiddennav{display: flex;}
-  .cardrow {background-color: green;}
 }
