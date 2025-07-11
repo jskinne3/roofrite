@@ -186,6 +186,25 @@ h2 {
   font-size: larger;
   line-height: 2em;
 }
+.cards {
+  background-color: #eee;
+  padding: 50px;
+  text-align: center;
+}
+.cardrow {
+  display: flex; 
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 30px;
+}
+.card {
+  flex-grow: 1;
+  flex-shrink: 1;
+  border: 1px solid black;
+  text-align: left;
+  padding: 20px;
+  flex-shrink: 1;
+}
 
 /* images */
 p > img {
@@ -215,6 +234,10 @@ footer {
     flex-direction: row;
     justify-content: flex-end;
   }
+  .cardrow {
+    flex-direction: row;
+    background-color: blue;
+  }
 }
 
 @media (min-width: 1000px) {
@@ -223,4 +246,5 @@ footer {
   #contact{display: inline;}
   #hamburger{display: none;}
   .hiddennav{display: flex;}
+  .cardrow {background-color: green;}
 }
