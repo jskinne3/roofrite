@@ -241,6 +241,24 @@ h2 {
   max-height: 450px;
 }
 
+.locations {
+  background-color: #eee;
+  padding: 50px;
+  text-align: center;
+}
+.locationsrow {
+  display: flex;
+  flex-direction: column;
+}
+.locationsrow > img {
+  max-width: 100%;
+}
+.locationslist {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
 /* images */
 p > img {
   max-width: 100%;
@@ -276,6 +294,12 @@ footer {
     flex-direction: row;
     flex-wrap: wrap;
   }
+  .locationsrow {
+    flex-direction: row;
+  }
+  .locationsrow > img {
+    max-width: 60%;
+  }
 }
 
 @media (min-width: 1000px) {
@@ -285,7 +309,6 @@ footer {
   #hamburger{display: none;}
   .hiddennav{display: flex;}
   .card {max-width: 18%}
-  .contact-form {
-    display: block;
-  }
+  .contact-form {display: block;}
+  
 }
