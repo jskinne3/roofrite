@@ -229,6 +229,18 @@ h2 {
   width: 100px;
 }
 
+.gallery {
+  padding: 50px;
+  text-align: center;
+}
+.galleryscroll {
+  overflow: auto;
+  white-space: nowrap;
+}
+.galleryscroll > img {
+  max-height: 450px;
+}
+
 /* images */
 p > img {
   max-width: 100%;
