@@ -270,7 +270,12 @@ footer {
   clear: both;
   position: relative;
   padding: 30px;
-  background-color: silver;
+  background-color: #222;
+  color: white;
+}
+address {
+  font-style: normal;
+  font-size: larger;
 }
 
 /* sizes */
