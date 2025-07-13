@@ -51,11 +51,13 @@ strong {
   color: #232E5E;
   display: none; /* mobile */
 }
-#contact > .button {
+.button {
   background-color: #232E5E;
   color: white;
   padding: 10px;
   margin-left: 20px;
+  border: 1px solid white;
+  font-size: 13pt;
 }
 #hamburger {
   min-height: 100%;
@@ -70,7 +72,6 @@ strong {
 .hamhlight {
   background-color: #9BA5D4;
 }
-
 
 /* nav */
 nav {
@@ -156,6 +157,25 @@ video, .hero_image {
   align-items: center;
   justify-content: center;
   color: white;
+}
+
+/* hero contact form */
+.contact-form {
+  background-color: black;
+  width: 400px;
+  height: 350px;
+  margin-right: 25px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background-color: rgba( 0, 0, 0, 0.7 );
+  padding: 25px;
+  display: none;
+}
+input {
+  padding: 10px;
+  border: 1px solid silver;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 /* main */
@@ -253,4 +273,7 @@ footer {
   #hamburger{display: none;}
   .hiddennav{display: flex;}
   .card {max-width: 18%}
+  .contact-form {
+    display: block;
+  }
 }
