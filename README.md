@@ -32,13 +32,13 @@ Then visit <http://localhost:8080/>
 To update the website's content, you'll edit Markdown files, which end with the `.md` file extension. For example, the file `index.md` holds the main contents of the homepage.
 
 Open GitBash
-Use `git status` to see the names of the files that have changed.
-Use `git diff` to see the individual changes between files. Use spacebar to iterate through them. Use q to quit.
-Use `git add fileName` if you've added files to your directory.
-Use `get commit -a -m "commit message"` to commit all the changes you've made.
-Use `get commit fileName -m "commit message"` to commit all the changes you've made to a specific file.
-Use `get push` to send committed changes to gitHub.
-* You may be asked to authenticate. Use your gitHub email and username in the commandline, and then sign in when prompted through the browser.
+* Use `git status` to see the names of the files that have changed.
+* Use `git diff` to see the individual changes between files. Use spacebar to iterate through them. Use q to quit.
+* Use `git add fileName` if you've added files to your directory.
+* Use `get commit -a -m "commit message"` to commit all the changes you've made.
+* Use `get commit fileName -m "commit message"` to commit all the changes you've made to a specific file.
+* Use `get push` to send committed changes to gitHub.
+    * You may be asked to authenticate. Use your gitHub email and username in the commandline, and then sign in when prompted through the browser.
 
 # Deploy
 
