@@ -35,11 +35,13 @@ Open GitBash
 * Use `git status` to see the names of the files that have changed.
 * Use `git diff` to see the individual changes between files. Use spacebar to iterate through them. Use q to quit.
 * Use `git add fileName` if you've added files to your directory.
-* Use `get commit -a -m "commit message"` to commit all the changes you've made.
-* Use `get commit fileName -m "commit message"` to commit all the changes you've made to a specific file.
-* Use `get push` to send committed changes to gitHub.
+* Use `git commit -a -m "commit message"` to commit all the changes you've made.
+* Use `git commit fileName -m "commit message"` to commit all the changes you've made to a specific file.
+* Use `git push` to send committed changes to gitHub.
     * You may be asked to authenticate. Use your gitHub email and username in the commandline, and then sign in when prompted through the browser.
 
 # Deploy
 
 Using Git, commit your changes to the `main` branch; then visit <https://roofrite.pages.dev/>
+
+If you've made changes to a branch other than main, you'll have to create a pull request to merge your branch into the main.
