@@ -161,16 +161,29 @@ video, .hero_image {
 
 /* hero contact form */
 .contact-form {
-  background-color: black;
   width: 400px;
-  height: 350px;
+  height: 400px;
   margin-right: 25px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   background-color: rgba( 0, 0, 0, 0.7 );
-  padding: 25px;
+  padding: 30px;
   display: none;
 }
+
+.contact-form h2 {
+  margin: 0;
+}
+
+textarea {
+  width: 175px;
+  resize: none;
+  padding: 10px;
+  border: 1px solid silver;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
 input {
   padding: 10px;
   border: 1px solid silver;
