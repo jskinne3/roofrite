@@ -11,3 +11,8 @@ The siding of your home or business is the first thing that catches the eye from
 
 Whatever your siding needs, whether it’s vinyl, steel, aluminum, fiber cement, stucco/EIFS, we
 have hundreds of colors and styles available from Mastic, James Hardie, Rollex, and many others to fit your desired style and budget.
+
+<div class="breakout">
+  {% include "cardsResSiding.njk" %}
+  <!-- Possible Gallery Here -->
+</div>
