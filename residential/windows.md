@@ -11,3 +11,8 @@ Another important facet of your exterior is its windows. Modern windows can incr
 
 Whether you have damage or are just looking to upgrade, we install all styles of windows from top manufacturers such as Pella, Andersen, Marvin, and Jeld-Wen to fit all the needs of your
 home or business.
+
+<div class="breakout">
+  {% include "cardsResWindows.njk" %}
+  <!-- Possible Gallery Here -->
+</div>

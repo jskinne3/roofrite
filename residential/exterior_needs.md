@@ -11,3 +11,8 @@ While our name is Roof Rite, we’re proud to do exterior work of all kinds. Nat
 
 We do soffit and fascia, flashings, chimney chases, snow guards, and skylights. We also do paint and stain, window and door wraps, and
 many other trades. Just ask! We're happy to lend our services so you can be sure it's done rite!
+
+<div class="breakout">
+  {% include "cardsResExterior.njk" %}
+  <!-- Possible Gallery Here -->
+</div>
