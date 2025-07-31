@@ -12,6 +12,6 @@ The exterior of your building is the first-impression for your product or servic
 With years of experience in the commercial sector, we’ve built strong relationships with maintenance managers, developers, and business owners. Our team is well-versed in project coordination, safety compliance, and the unique scheduling needs of commercial clients making us a dependable partner from planning through punch-out.
 
 <div class="breakout">
-  {% include "cardsComHist.njk" %}
+  {% include "cardsComStorefront.njk" %}
   <!-- Possible Gallery Here -->
 </div>

@@ -12,6 +12,6 @@ Warehouses, factories, and distribution centers need more than just coverage; th
 We understand that every hour counts in a manufacturing or logistics environment. As such, our crews are trained to work around active operations, executing repairs, replacements, and upgrades with minimal impact on your workflow.
 
 <div class="breakout">
-  {% include "cardsComHist.njk" %}
+  {% include "cardsComIndustrial.njk" %}
   <!-- Possible Gallery Here -->
 </div>
