@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Metal Roofing"
-hero_image: "/assets/img/IMG_45741.png"
+hero_image: "/assets/img/DJI_0759-1.jpg"
 hero_alt: "Roofing crew working on a large roof of a metal building, surrounded by expansive green farmland. Workers in safety gear and helmets are clustered near the edge of the roof, preparing to install new materials. A forklift is partially visible to the left. In the distance, a rural road leads to scattered houses, with fields and cloudy skies filling the background."
 
 ---

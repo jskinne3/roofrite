@@ -1,0 +1,12 @@
+---
+layout: page.njk
+title: "Roof Rite Blog"
+
+---
+## Steps for homeowners claim
+
+1. Talk to your insurnace company
+2. Find a roofer
+3. Get an estimate
+
+These are the steps!

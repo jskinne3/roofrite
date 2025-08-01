@@ -1,7 +1,7 @@
 ---
 layout: page.njk
-title: "PVC: Long-Lasting and Low-Maintenence"
-hero_image: "/assets/img/Myles on a Forklift.png"
+title: "PVC"
+hero_image: "/assets/img/IMG_3818.jpg"
 hero_alt: "Interior view of the Roof Rite warehouse with a worker operating a forklift. A branded Roof Rite trailer is parked in the back, surrounded by tools, equipment, and roofing materials. The space is organized, with ladders, boxes , and supplies neatly stored along the walls."
 ---
 

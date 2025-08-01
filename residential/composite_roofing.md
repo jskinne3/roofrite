@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Composite Roofing"
-hero_image: "/assets/img/Davinci2.jpg"
+hero_image: "/assets/img/IMG_6268.png"
 hero_alt: "Roof Rite workers installing a Davinci Composite Shake roof in Weathered Gray on an affluent, colonial style, brick house."
 
 ---
