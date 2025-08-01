@@ -7,6 +7,6 @@ motto: "We are who we are because of our wonderful staff and the fine people we 
 
 ## About us
 
-Roof Rite is a premier national exteriors contractor based in Lincoln, Nebraska. We offer a **comprehensive suite of exterior services**, including but not limited to: low and steep slope roofing, structural wood framing and masonry, residential and commercial gutter systems, exterior siding, painting and staining, doors and windows, & tuckpointing and aesthetic masonry repairs.
+Roof Rite is a premier exteriors contractor based in Lincoln, Nebraska. We offer a **comprehensive suite of exterior services** for every scope and sector. Whether you’re a homeowner with a concern, or a capital projects manager renovating everything east of main street, we can get you taken care of.
 
-Our team of skilled professionals is committed to ensuring that each project is completed on time, within budget, and to the highest standards of quality.
+Our team of skilled professionals is committed to ensuring that every project is completed on time, within budget, and to the highest standards of quality.

@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Windows"
-hero_image: "/assets/img/IMG_1017.jpeg"
+hero_image: "/assets/img/Windows.jpg"
 hero_alt: "Close-up of a home's bay window, showing off Roof Rite's craftsmanship. The newly installed, patina-free copper pent roof contrasts with the dark metal window trim and stone exterior, adding an elegant architectural detail beneath a dormer window, and presidential shingle roof. The homeowner's stained glass projects hang framed, behind the window."
 ---
 
