@@ -161,9 +161,8 @@ video, .hero_image {
 
 /* hero contact form */
 .contact-form {
-  background-color: black;
   width: 400px;
-  height:400px;
+  height: 400px;
   margin-right: 25px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
