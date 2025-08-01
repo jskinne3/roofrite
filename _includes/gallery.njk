@@ -1,6 +1,6 @@
-<section class="gallery">
+<section id="gallery">
   <h2>Photo gallery</h2>
-  <div class="galleryscroll">
+  <div id="galleryscroll">
     <img src="/assets/img/DJI_0016.jpg" />
     <img src="/assets/img/IMG_0044.jpg" />
     <img src="/assets/img/IMG_1620.png" />
@@ -11,4 +11,18 @@
     <img src="/assets/img/DJI_0322_1.jpg" />
     <img src="/assets/img/DJI_0477.jpg" />
   </div>
+  <button id="slideLeft" type="button">Slide left</button>
+  <button id="slideRight" type="button">Slide right</button>
+  <script>
+    const buttonRight = document.getElementById('slideRight');
+    const buttonLeft = document.getElementById('slideLeft');
+
+    buttonRight.onclick = function () {
+      document.getElementById('galleryscroll').scrollLeft += 400;
+      document.getElementById('slideLeft').style.display = "inline";
+    };
+    buttonLeft.onclick = function () {
+      document.getElementById('galleryscroll').scrollLeft -= 400;
+    };
+  </script>
 </section>

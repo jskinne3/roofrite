@@ -242,16 +242,22 @@ h2 {
   width: 100px;
 }
 
-.gallery {
+#gallery {
   padding: 50px;
   text-align: center;
 }
-.galleryscroll {
+#galleryscroll {
   overflow: auto;
   white-space: nowrap;
 }
-.galleryscroll > img {
+#galleryscroll > img {
   max-height: 450px;
+}
+#slideLeft {
+  display: none;
+}
+#slideLeft, #slideRight {
+  color: blue;
 }
 
 .locations {
