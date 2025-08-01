@@ -263,7 +263,8 @@ h2 {
 #slideleft, #slideright {
   font-size: 25pt;
   background-color: white;
-  border: none;
+  border: 1px solid blue;
+  max-width: 100px;
 }
 
 .locations {
