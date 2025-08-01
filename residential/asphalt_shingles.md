@@ -9,7 +9,7 @@ hero_alt: "Rear view of a large two-story lakefront home with a brown presidenti
 
 Classic asphalt shingles are an effective and affordable way of protecting your property. Their easy installment and reliability have made them one of the most trusted roofing materials worldwide.
 
-We offer both budget-friendly architectural shingles and premium designer shingles that allow you to take control of the style and security of your new roof.
+We offer class 4 impact and algae resistent shingles, in both budget-friendly architectural and premium designer styles that allow you to take control of the appearance and security of your new roof.
 
 <div class="breakout">
   {% include "cardsResAsphalt.njk" %}
