@@ -1,28 +1,37 @@
 <section id="gallery">
   <h2>Photo gallery</h2>
-  <div id="galleryscroll">
-    <img src="/assets/img/DJI_0016.jpg" />
-    <img src="/assets/img/IMG_0044.jpg" />
-    <img src="/assets/img/IMG_1620.png" />
-    <img src="/assets/img/IMG_45741.png" />
-    <img src="/assets/img/DJI_0165.jpg" />
-    <img src="/assets/img/DJI_0171-1.jpg" />
-    <img src="/assets/img/DJI_0175.jpg" />
-    <img src="/assets/img/DJI_0322_1.jpg" />
-    <img src="/assets/img/DJI_0477.jpg" />
+  <div id="gallarycarousel">
+    <button id="slideleft" type="button">&#10094;</button>
+    <div id="galleryscroll">
+      <img src="/assets/img/DJI_0016.jpg" />
+      <img src="/assets/img/IMG_0044.jpg" />
+      <img src="/assets/img/IMG_1620.png" />
+      <img src="/assets/img/IMG_45741.png" />
+      <img src="/assets/img/DJI_0165.jpg" />
+      <img src="/assets/img/DJI_0171-1.jpg" />
+      <img src="/assets/img/DJI_0175.jpg" />
+      <img src="/assets/img/DJI_0322_1.jpg" />
+      <img src="/assets/img/DJI_0477.jpg" />
+    </div>
+    <button id="slideright" type="button">&#10095;</button>
   </div>
-  <button id="slideLeft" type="button">Slide left</button>
-  <button id="slideRight" type="button">Slide right</button>
   <script>
-    const buttonRight = document.getElementById('slideRight');
-    const buttonLeft = document.getElementById('slideLeft');
+    const buttonRight = document.getElementById('slideright');
+    const buttonLeft = document.getElementById('slideleft');
 
     buttonRight.onclick = function () {
-      document.getElementById('galleryscroll').scrollLeft += 400;
-      document.getElementById('slideLeft').style.display = "inline";
+      document.getElementById('galleryscroll').scrollBy({
+        left: 500,
+        behavior: "smooth"
+      });
+      document.getElementById('slideleft').style.display = "inline";
     };
     buttonLeft.onclick = function () {
-      document.getElementById('galleryscroll').scrollLeft -= 400;
+      document.getElementById('galleryscroll').scrollTo({
+        left: 0,
+        behavior: "smooth"
+      });
+      document.getElementById('slideleft').style.display = "none";
     };
   </script>
 </section>

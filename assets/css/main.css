@@ -253,11 +253,17 @@ h2 {
 #galleryscroll > img {
   max-height: 450px;
 }
-#slideLeft {
-  display: none;
-}
-#slideLeft, #slideRight {
+#gallarycarousel {
+  display: flex;
   color: blue;
+}
+#slideleft {
+  display: none; /* hide left button until first use of slideright */
+}
+#slideleft, #slideright {
+  font-size: 25pt;
+  background-color: white;
+  border: none;
 }
 
 .locations {
