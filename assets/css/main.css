@@ -259,12 +259,20 @@ h2 {
 }
 #slideleft {
   display: none; /* hide left button until first use of slideright */
+  left: 30px;
+}
+#slideright {
+  right: 30px;
 }
 #slideleft, #slideright {
   font-size: 25pt;
-  background-color: white;
-  border: 1px solid blue;
+  background: rgb(0 0 0 / 0.5);
+  color: white;
+  border: none;
   max-width: 100px;
+  position: relative;
+  top: 170px;
+  height: 100px;
 }
 
 .locations {

@@ -27,10 +27,7 @@
       document.getElementById('slideleft').style.display = "inline";
     };
     buttonLeft.onclick = function () {
-      document.getElementById('galleryscroll').scrollTo({
-        left: 0,
-        behavior: "smooth"
-      });
+      document.getElementById('galleryscroll').scrollLeft = 0;
       document.getElementById('slideleft').style.display = "none";
     };
   </script>
