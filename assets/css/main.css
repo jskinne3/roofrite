@@ -268,7 +268,7 @@ h2 {
   background: rgb(0 0 0 / 0.5);
   color: white;
   border: none;
-  width: 44pt;
+  max-width: 44pt;
   position: absolute;
   height: 54pt;
 }
