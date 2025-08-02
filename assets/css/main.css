@@ -245,6 +245,7 @@ h2 {
 #gallery {
   padding: 50px;
   text-align: center;
+  position: relative;
 }
 #galleryscroll {
   overflow: auto;
@@ -253,26 +254,23 @@ h2 {
 #galleryscroll > img {
   max-height: 450px;
 }
-#gallarycarousel {
-  display: flex;
-  color: blue;
-}
 #slideleft {
   display: none; /* hide left button until first use of slideright */
-  left: 30px;
+  left: 70px;
+  bottom: 250px;
 }
 #slideright {
-  right: 30px;
+  right: 70px;
+  bottom: 250px;
 }
 #slideleft, #slideright {
   font-size: 25pt;
   background: rgb(0 0 0 / 0.5);
   color: white;
   border: none;
-  max-width: 100px;
-  position: relative;
-  top: 170px;
-  height: 100px;
+  width: 44pt;
+  position: absolute;
+  height: 54pt;
 }
 
 .locations {
