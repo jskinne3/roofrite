@@ -51,6 +51,9 @@ strong {
   color: #232E5E;
   display: none; /* mobile */
 }
+#contact a {
+  text-decoration: none;
+}
 .button {
   background-color: #232E5E;
   color: white;
