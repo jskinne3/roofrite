@@ -312,6 +312,7 @@ blockquote:before {
   padding: 50px;
   text-align: center;
   position: relative;
+  background-color: #eee;
 }
 #galleryscroll {
   overflow: auto;
@@ -340,7 +341,7 @@ blockquote:before {
 }
 
 .locations {
-  background-color: #eee;
+  background-color: #ffffff;
   padding: 50px;
   text-align: center;
 }
@@ -355,6 +356,12 @@ blockquote:before {
   text-align: left;
   margin-left: 20px;
   margin-top: 20px;
+}
+
+.locationslist > p {
+  line-height: 2em;
+  vertical-align: middle;
+  margin-top: 70px;
 }
 
 /* images */
