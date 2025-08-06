@@ -12,6 +12,6 @@ Historical buildings and places of worship pose a unique challenge for exterior 
 Given these stakes, we’re honored to have been awarded several contracts for large religious and historical projects. It’s given us perspective on the needs of these special cases that allow us to update your exterior with minimal disturbance to your regular services.
 
 <div class="breakout">
-  {% include "cardsComHist.njk" %}
+  {% include "cards/cardsComHist.njk" %}
   <!-- Possible Gallery Here -->
 </div>

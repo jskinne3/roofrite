@@ -12,6 +12,6 @@ Channeling water away is just as important as keeping it out. Water that soaks i
 We treat this issue with the severity it deserves and offer a variety of options for every landscape and structure.
 
 <div class="breakout">
-  {% include "cardsResGutters.njk" %}
+  {% include "cards/cardsResGutters.njk" %}
   <!-- Possible Gallery Here -->
 </div>

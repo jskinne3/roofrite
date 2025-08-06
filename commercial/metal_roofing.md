@@ -16,6 +16,6 @@ Metal roofing is energy efficient. It reflects the sun’s rays, reducing the am
 There are variety of colors, styles, and finishes available, making it easy to find a roofing solution that matches the character of your building. Whether you prefer a traditional metal roof or a more modern style, there’s a metal roofing option that’s right for you.
 
 <div class="breakout">
-  {% include "cardsComMetal.njk" %}
+  {% include "cards/cardsComMetal.njk" %}
   <!-- Possible Gallery Here -->
 </div>

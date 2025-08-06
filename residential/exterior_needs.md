@@ -13,6 +13,6 @@ We do soffit and fascia, flashings, chimney chases, snow guards, and skylights. 
 many other trades. Just ask! We're happy to lend our services so you can be sure it's done rite!
 
 <div class="breakout">
-  {% include "cardsResExterior.njk" %}
+  {% include "cards/cardsResExterior.njk" %}
   <!-- Possible Gallery Here -->
 </div>

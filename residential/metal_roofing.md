@@ -12,6 +12,6 @@ These life-long roofs offer superb protection against wind, hail, and fire. Thei
 As a result, this adaptable material has been an increasingly popular option for both commercial and residential roofs.
 
 <div class="breakout">
-  {% include "cardsResMetal.njk" %}
+  {% include "cards/cardsResMetal.njk" %}
   <!-- Possible Gallery Here -->
 </div>

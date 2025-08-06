@@ -13,6 +13,6 @@ Whether you have damage or are just looking to upgrade, we install all styles of
 home or business.
 
 <div class="breakout">
-  {% include "cardsResWindows.njk" %}
+  {% include "cards/cardsResWindows.njk" %}
   <!-- Possible Gallery Here -->
 </div>

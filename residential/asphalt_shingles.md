@@ -12,6 +12,6 @@ Classic asphalt shingles are an effective and affordable way of protecting your 
 We offer class 4 impact and algae resistent shingles, in both budget-friendly architectural and premium designer styles that allow you to take control of the appearance and security of your new roof.
 
 <div class="breakout">
-  {% include "cardsResAsphalt.njk" %}
+  {% include "cards/cardsResAsphalt.njk" %}
   <!-- Possible Gallery Here -->
 </div>

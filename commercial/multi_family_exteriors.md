@@ -10,6 +10,6 @@ hero_alt: "An overview photo of Roof Rite using cranes to load a large, 5-story 
 At Roof Rite, we understand the specific needs of multi-family housing. We’ve made it our mission to provide high-quality, reliable, and cost-effective solutions for multi-family properties. Whether it’s apartment complexes, condominiums, retirement homes, or student housing, we have the expertise to handle all of your exterior needs.
 
 <div class="breakout">
-  {% include "cardsComMultifamily.njk" %}
+  {% include "cards/cardsComMultifamily.njk" %}
   <!-- Possible Gallery Here -->
 </div>

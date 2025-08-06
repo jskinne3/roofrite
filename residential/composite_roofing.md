@@ -15,6 +15,6 @@ Our composite roofs outperform natural slate and cedar shake against fire, hail,
 They provide exceptional protection, versatile appearance, and lasting performance.
 
 <div class="breakout">
-  {% include "cardsResComposite.njk" %}
+  {% include "cards/cardsResComposite.njk" %}
   <!-- Possible Gallery Here -->
 </div>
