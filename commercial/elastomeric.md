@@ -9,6 +9,8 @@ hero_alt: "Mid-range view of a commercial building with a newly coated white ela
 ## Elastomeric Coatings
 Elastomeric roof coating is a roofing solution that provides numerous benefits for building owners looking to improve the performance and appearance of their property.
 
+![An example of our Elastomeric roofing work](/assets/img/DJI_0027.jpg)
+
 With no seams or joints, coatings provide a seamless barrier that helps to reduce the risk of leaks. They can be applied quickly and easily, reducing the amount of construction time. An elastomeric coating can be applied to virtually any building, or over almost any existing roofing system. It’s a budget-friendly, effective guarantee for a leak free roof.
 
 <div class="breakout">
