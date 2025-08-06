@@ -12,6 +12,6 @@ For buildings near large trees we also offer gutter guards. Gutter guards are al
 We offer a wide selection of gutter guards from Leaf-Free, Gutter RX and many others to fit the needs of your landscape.
 
 <div class="breakout">
-  {% include "cardsResGuards.njk" %}
+  {% include "cards/cardsResGuards.njk" %}
   <!-- Possible Gallery Here -->
 </div>

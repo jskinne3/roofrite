@@ -14,6 +14,6 @@ Our low-sloped roofs use the highest-quality materials like modified-bitumen, el
 We are also part of the select few who can offer No-Dollar-Limit Guaranteed Coverage for our low- slope roofs, or for roofs that are a combination of low and steep slope.
 
 <div class="breakout">
-  {% include "cardsResLowslope.njk" %}
+  {% include "cards/cardsResLowslope.njk" %}
   <!-- Possible Gallery Here -->
 </div>

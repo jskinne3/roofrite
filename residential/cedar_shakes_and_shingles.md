@@ -13,6 +13,6 @@ Roofs made from cedar have a long lifespan, and provide excellent shelter, effec
 to any dwelling.
 
 <div class="breakout">
-  {% include "cardsResCedar.njk" %}
+  {% include "cards/cardsResCedar.njk" %}
   <!-- Possible Gallery Here -->
 </div>

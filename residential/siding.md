@@ -13,6 +13,6 @@ Whatever your siding needs, whether it’s vinyl, steel, aluminum, fiber cement,
 have hundreds of colors and styles available from Mastic, James Hardie, Rollex, and many others to fit your desired style and budget.
 
 <div class="breakout">
-  {% include "cardsResSiding.njk" %}
+  {% include "cards/cardsResSiding.njk" %}
   <!-- Possible Gallery Here -->
 </div>

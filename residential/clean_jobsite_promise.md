@@ -12,6 +12,6 @@ We've been in the industry for long enough to know that installing a new roof ca
 We own telescopic trash shoots, and drivable, self-propelled dump trailers like the Equipter 4000 that extend to the roof’s edge. This equipment keeps roofing debris tightly in our grasp, and out of your lawn and flower beds.
 
 <div class="breakout">
-  {% include "cardsResClean.njk" %}
+  {% include "cards/cardsResClean.njk" %}
   <!-- Possible Gallery Here -->
 </div>
