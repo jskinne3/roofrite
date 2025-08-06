@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Elastomeric Coatings"
 hero_image: "/assets/img/Omaha_Offices.jpg"
-hero_alt: "Mid-range view of a commercial building with a newly coated white elastomeric roof. The structure is labeled 'Aqua Systems.' Several orange safety cones and workers in safety gear are present on the roof. The background shows industrial buildings and large grain silos under a clear blue sky."
+hero_alt: "Flat commercial rooftop with a finished bright white elastomeric coating by Roof Rite. Several HVAC units and vents are installed. In the background, a commercial district with billboards, shopping centers, and parked vehicles is visible under a blue sky with soft cloud coverage."
 ---
 
 ### Flexible & Cost Effective

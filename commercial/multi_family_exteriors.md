@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Multi-Family Exteriors"
 hero_image: "/assets/img/DJI_0597.jpg"
-hero_alt: "An overview photo of Roof Rite using cranes to load a large, 5-story apartment complex building with CertainTeed Landmark shingles in Moire Black. The complex is in a city in Utah, and sports fields, suburbs, and the mountains are visible in the background."
+hero_alt: "Wide aerial view of Roof Rite's large coastal housing community re-roofing project. Rows of over 50 multi-family buildings outlined by dense trees, with rooftops showing uniform installation under soft afternoon light. The scene overlooks a sparkling bay and distant shoreline, blending urban development and natural beauty."
 ---
 
 ## Multi-Family Exteriors: Our Dedication

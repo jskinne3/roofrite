@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Store-Front & Enterprise"
 hero_image: "/assets/img/DJI_0165-1.jpg"
-hero_alt: "Elegant side view of the historic Muir House, a red-brick Italianate structure with white trim and ornate brackets installed under the soffits of a newly installed roof. The building features arched windows, a white wooden back porch, and a brick driveway lightly dusted with snow. The preserved structure sits surrounded by leafless winter trees, in front of a dim, sunsetting sky."
+hero_alt: "An aerial close-up view of the front of the Arbor Day Farm Tree Adventure building, featuring a bold GAF Timberline HDZ roof in Patriot Red, installed by Roof Rite. The rich red shingles contrast with the dark wood-toned gable and adjacent trees. White plumbing pipes and a central cupola add architectural detail. The covered entrance patio includes outdoor seating and signage inviting visitors to explore."
 ---
 
 ## Store-Front & Enterprise

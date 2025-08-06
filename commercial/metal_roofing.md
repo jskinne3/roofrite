@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Metal Roofing"
 hero_image: "/assets/img/DJI_0759-1.jpg"
-hero_alt: "Roofing crew working on a large roof of a metal building, surrounded by expansive green farmland. Workers in safety gear and helmets are clustered near the edge of the roof, preparing to install new materials. A forklift is partially visible to the left. In the distance, a rural road leads to scattered houses, with fields and cloudy skies filling the background."
+hero_alt: "Aerial view of a large industrial facility with a new standing seam metal roof installed by Roof Rite. The clean, reflective surface spans multiple connected structures and includes various rooftop units and penetrations. The photo showcases the scale and precision of the commercial roofing project, with clear blue skies and a mix of industrial buildings, parking lots, and delivery trucks visible in the background."
 
 ---
 

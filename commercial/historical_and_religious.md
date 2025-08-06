@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Historical Buildings & Religious Structures"
 hero_image: "/assets/img/DJI_0958.jpg"
-hero_alt: "Elegant side view of the historic Muir House, a red-brick Italianate structure with white trim and ornate brackets installed under the soffits of a newly installed roof. The building features arched windows, a white wooden back porch, and a brick driveway lightly dusted with snow. The preserved structure sits surrounded by leafless winter trees, in front of a dim, sunsetting sky."
+hero_alt: "Aerial view of a church undergoing roof replacement by Roof Rite during winter. Workers are installing a new roofing system on the steep main sanctuary roof, with safety lines and materials visible. Snow blankets the surrounding ground and neighborhood, contrasting with the exposed roof decking. The brick church features gothic-style windows and a tower topped with a tall cross."
 ---
 
 ## Historical Buildings & Religious Structures

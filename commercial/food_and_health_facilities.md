@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Food & Health Facilities"
 hero_image: "/assets/img/HeatWelding.jpg"
-hero_alt: "Elegant side view of the historic Muir House, a red-brick Italianate structure with white trim and ornate brackets installed under the soffits of a newly installed roof. The building features arched windows, a white wooden back porch, and a brick driveway lightly dusted with snow. The preserved structure sits surrounded by leafless winter trees, in front of a dim, sunsetting sky."
+hero_alt: "Two Roof Rite crew members work together on a flat roof, installing a GAF Everguard TPO membrane. One team member uses a heat welder while another receives instructions from a GAF quality control rep. Tools and an HVAC unit are visible in the background under a partly cloudy sky."
 ---
 
 ## Food & Health Facilities
