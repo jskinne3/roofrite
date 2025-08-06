@@ -2,7 +2,7 @@
 layout: page.njk
 title: "PVC"
 hero_image: "/assets/img/IMG_3818.jpg"
-hero_alt: "Interior view of the Roof Rite warehouse with a worker operating a forklift. A branded Roof Rite trailer is parked in the back, surrounded by tools, equipment, and roofing materials. The space is organized, with ladders, boxes , and supplies neatly stored along the walls."
+hero_alt: "Close-up of a Roof Rite crew installing a white PVC roofing membrane on a flat roof. One worker unrolls the membrane while another operates a RhinoBond induction welder to secure the material. The sun shines brightly overhead, casting long shadows across the smooth, reflective surface. Leafless trees and rooftop HVAC units are visible in the background."
 ---
 
 ## PVC: Long-Lasting and Low-Maintenence

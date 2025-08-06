@@ -2,7 +2,7 @@
 layout: page.njk
 title: "Our Clean Jobsite Promise"
 hero_image: "/assets/img/IMG_1036.jpeg"
-hero_alt: "High angle aerial view of the Arbor Day Farm Tree Adventure building, featuring a vibrant GAF Timberline HDZ roof in Patriot Red, installed by Roof Rite. Surrounded by winding paths, gardens, and tree-lined trails, the red roof adds a striking contrast to the lush green landscape."
+hero_alt: "Roof Rite's Equipter RB5000 Self-propelled dump trailer raises it's bucket to the roofline of a stone house during a cedar shake replacement. The helps to manage debris during tear off, and safely load materials during replacement. The first few courses of shakes have already been installed, with the underlayment visible towards the ridge. Trees frame the garage below."
 ---
 
 ## Our Clean Jobsite Promise

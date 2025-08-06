@@ -2,7 +2,7 @@
 layout: page.njk
 title: "EPDM"
 hero_image: "/assets/img/DJI_0442.jpg"
-hero_alt: "Aerial view of a restaurant building with Roof Rite in the middle of a flat roof replacement. The Carlisle EPDM Membrane is partially completed with tools, safety cones, and materials visible across the surface. The building labeled 'Texas Craft Barbecue' sits on a street corner with a rounded front entryway adjacent bike lanes, and light traffic."
+hero_alt: "Aerial angled view of Canyon Joe's Barbecue during Roof Rites, Carlisle EPDM flat roof installation. Crews are working on the roof above the black exterior, with safety cones and tools visible across the surface. The project sits in a mixed-use neighborhood with adjacent residential and commercial buildings."
 ---
 
 ## EPDM: Durable, Weather-Resistant, Traditional
