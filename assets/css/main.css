@@ -257,6 +257,22 @@ h2 {
   width: 100px;
 }
 
+/* SVG badges */
+.badges {
+  padding: 40px;
+  text-align: center;
+  background-color: #eee;
+}
+.badges a {
+  text-decoration: none;
+}
+.badges a img {
+  max-width: 100px;
+  margin: 20px;
+  vertical-align: middle;
+}
+
+/* photo gallery*/
 #gallery {
   padding: 50px;
   text-align: center;
