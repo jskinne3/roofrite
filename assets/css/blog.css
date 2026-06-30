@@ -206,3 +206,5 @@
   font-size: 1rem;
   padding: 40px 0 80px;
 }
+   FIXED: Added flex-basis and block layout configurations. This stops 
+   elements from placing themselves side-by-side
