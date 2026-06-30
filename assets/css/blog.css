@@ -111,16 +111,29 @@
   color: #fff;
   border-color: var(--primary-color);
 }
-
-/* ---------- 3-column grid ---------- */
+/* ---------- Override main.css constraints for blog page ----------
+   FIXED: Changed side margins to auto to force proper layout centering
+   while letting the containers break free of standard main.css limits.
+   ------------------------------------------------------------------ */
+.blog-hero,
+.blog-search-wrap,
+.blog-filters,
+.blog-grid,
+.blog-no-results {
+  width: 100%;
+  max-width: none !important;   /* Breaks past standard 600px width cap */
+  align-self: stretch;          /* Overrides flex-direction centering alignment */
+  margin-left: auto !important;  /* FIXED: Centers layout elements equally */
+  margin-right: auto !important; /* FIXED: Centers layout elements equally */
+  box-sizing: border-box;
+}
+/* ---------- 3-column card grid ---------- */
 .blog-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
   padding: 0 5vw 80px;
-  max-width: 1400px;
-  margin: 0 auto;
-  box-sizing: border-box;
+  max-width: 1400px !important; /* Keeps grid centered and bounded on wide viewports */
 }
 
 @media (max-width: 900px) {
