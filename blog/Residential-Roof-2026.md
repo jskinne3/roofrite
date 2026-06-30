@@ -39,7 +39,7 @@ If you’re unsure about what type of roofing materials are right for your home,
 1. What is my 10-year plan for this property?
 2. What kind of climate do I live in, and what are its extreme conditions like?
 
-If you need help with your options, our professional roofing experts at Roof Rite Exteriors are here to help. Call us at (402) 430-9538 for a free consultation or [contact us online](https://docs.google.com/document/d/1_HBMVOerxzXKM2P7PAcJvZabnXzmEfHqQ8xnKBdQ9_s/edit).
+If you need help with your options, our professional roofing experts at Roof Rite Exteriors are here to help. Call us at (402) 430-9538 for a free consultation or [contact us online](https://roofriteexteriors.com/about/contact/).
 
 ## How to Spot Roof Damage Early
 
@@ -53,7 +53,7 @@ Here are 5 common signs that your roof needs professional attention:
 4. **Interior Water Damage or Odors:** Water damage doesn't always show up as a huge puddle on the floor. Check your ceilings and walls for spots of yellowing or dark discoloration and staining. A persistent musty or earthy smell is also a strong clue, often indicating hidden mold or moisture buildup within the wall or ceiling cavities.
 5. **Sagging or Uneven Roof Plane:** A visible dip or curvature in your roofline can signal a serious structural problem, potentially involving damage to the roof decking or underlying supports. *This requires immediate inspection in order to prevent further damage.*
 
-Check out our [Ground-Level Detective Checklist](https://docs.google.com/document/d/1_HBMVOerxzXKM2P7PAcJvZabnXzmEfHqQ8xnKBdQ9_s/edit?ouid=107029230476394820442&tab=t.eh08zdt48846).
+Check out our [Ground-Level Detective Checklist](https://roofriteexteriors.com/blog/Ground-Level-Detective/) for more on how to evaluate your roofing system from the safety of your yard.
 
 ## The Roof Rite Replacement Process
 
@@ -96,4 +96,4 @@ Visit our Service Rite Restoration Hub to explore how professional mitigation ca
 
 ## Next Steps
 
-Don't leave your home’s safety to chance. Whether you need a minor repair or a full replacement, our friendly team of roofing experts at Roof Rite Exteriors is ready to help. Call us at (402) 430-9538 or [contact us online](https://docs.google.com/document/d/1_HBMVOerxzXKM2P7PAcJvZabnXzmEfHqQ8xnKBdQ9_s/edit).
+Don't leave your home’s safety to chance. Whether you need a minor repair or a full replacement, our friendly team of roofing experts at Roof Rite Exteriors is ready to help. Call us at (402) 430-9538 or [contact us online](https://roofriteexteriors.com/about/contact/).
