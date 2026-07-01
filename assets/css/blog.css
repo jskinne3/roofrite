@@ -11,16 +11,28 @@
   --text-muted: #999;
 }
 
-/* ---------- NEW ISOLATION WRAPPER ---------- */
-.blog-page-wrapper {
-  display: flex !important;
-  flex-direction: column !important; /* Strictly stacks layout sections downward */
-  width: 100vw !important;           /* Forces wrapper to stretch edge-to-edge */
-  max-width: 100% !important;        /* Neutralizes main.css width caps */
-  margin: 0 auto !important;
-  padding: 0 !important;
-  box-sizing: border-box;
+/* ---------- SURGICAL MAIN.CSS OVERRIDES ----------
+   These rules explicitly dismantle the desktop flex-row layout 
+   and 600px width caps coming from main.css.
+   ------------------------------------------------ */
+
+/* Force main to stay a vertical column on desktop viewports */
+@media (min-width: 800px) {
+  main {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
 }
+
+/* Neutralize the 600px max-width cap on the blog container */
+main > .blog-page-wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin: 0 auto !important;
+}
+
 
 /* ---------- Hero banner ---------- */
 .blog-hero {
@@ -206,6 +218,7 @@
   font-size: 0.88rem;
   color: #666;
   margin: 8px 0 0;
+  line-height: 1.5em; /* Cleans up line height inherited from main */
 }
 
 .blog-card:hover .blog-title {
