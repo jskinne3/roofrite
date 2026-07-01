@@ -11,18 +11,15 @@
   --text-muted: #999;
 }
 
-/* ---------- RESET MAIN CONTAINER FOR THE BLOG PAGE ----------
-   This completely neutralizes any flex rows, grids, or side-by-side
-   layouts coming from main.css and forces a clean vertical stack.
-   ------------------------------------------------------------ */
-main {
+/* ---------- NEW ISOLATION WRAPPER ---------- */
+.blog-page-wrapper {
   display: flex !important;
-  flex-direction: column !important;
-  align-items: stretch !important;
-  width: 100% !important;
-  max-width: none !important;
+  flex-direction: column !important; /* Strictly stacks layout sections downward */
+  width: 100vw !important;           /* Forces wrapper to stretch edge-to-edge */
+  max-width: 100% !important;        /* Neutralizes main.css width caps */
   margin: 0 auto !important;
   padding: 0 !important;
+  box-sizing: border-box;
 }
 
 /* ---------- Hero banner ---------- */
@@ -31,7 +28,9 @@ main {
   padding: 60px 5vw 30px;
   background: #f9f9f9;
   border-bottom: 1px solid #e8e8e8;
-  width: 100%;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
   box-sizing: border-box;
 }
 
@@ -52,10 +51,12 @@ main {
 
 /* ---------- Search bar ---------- */
 .blog-search-wrap {
-  display: flex;
-  justify-content: center;
+  display: flex !important;
+  justify-content: center !important;
   padding: 30px 5vw 10px;
-  width: 100%;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
   box-sizing: border-box;
 }
 
@@ -89,12 +90,14 @@ main {
 
 /* ---------- Category filter pills ---------- */
 .blog-filters {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
   gap: 8px;
   padding: 20px 5vw 30px;
-  width: 100%;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
   box-sizing: border-box;
 }
 
@@ -123,26 +126,16 @@ main {
   border-color: #232E5E;
 }
 
-/* ---------- Override main.css inner div constraints ---------- */
-.blog-hero,
-.blog-search-wrap,
-.blog-filters,
-.blog-grid,
-.blog-no-results {
-  max-width: none !important;   /* override main > div { max-width: 600px } */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  box-sizing: border-box;
-}
-
 /* ---------- 3-column card grid ---------- */
 .blog-grid {
   display: grid !important;
   grid-template-columns: repeat(3, 1fr) !important;
   gap: 28px;
   padding: 0 5vw 80px;
-  width: 100%;
+  width: 100% !important;
   max-width: 1400px !important; 
+  margin: 0 auto !important;
+  box-sizing: border-box;
 }
 
 /* 2 columns on medium screens */
@@ -188,17 +181,15 @@ main {
   background: #ddd;
 }
 
-/* Card body (date + title) */
-.blog-card-body {
-  padding: 16px 18px 20px;
+.blog-card-no-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #ddd;
 }
 
-.blog-date {
-  display: block;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 0.78rem;
-  color: #888;
-  margin-bottom: 6px;
+/* Card body */
+.blog-card-body {
+  padding: 16px 18px 20px;
 }
 
 .blog-title {
@@ -208,6 +199,13 @@ main {
   color: #1a1a1a;
   line-height: 1.4;
   margin: 0;
+}
+
+.blog-summary {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.88rem;
+  color: #666;
+  margin: 8px 0 0;
 }
 
 .blog-card:hover .blog-title {
@@ -221,4 +219,7 @@ main {
   font-family: 'Work Sans', sans-serif;
   font-size: 1rem;
   padding: 40px 0 80px;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
 }
