@@ -11,15 +11,28 @@
   --text-muted: #999;
 }
 
-/* ---------- NEW ISOLATION WRAPPER ---------- */
-.blog-page-wrapper {
-  display: flex !important;
-  flex-direction: column !important; /* Strictly stacks layout sections downward */
-  width: 100vw !important;           /* Forces wrapper to stretch edge-to-edge */
-  max-width: 100% !important;        /* Neutralizes main.css width caps */
-  margin: 0 auto !important;
+/* ---------- THE ULTIMATE ISOLATION RESET ---------- */
+main .blog-page-wrapper {
+  display: block !important;         /* Changes layout context from flex to standard block */
+  clear: both !important;            /* Breaks any floated elements */
+  float: none !important;            /* Cancels any floating */
+  width: 100% !important;            /* Takes up full width */
+  max-width: 100vw !important;       /* Explicitly overrides any max-width limits */
+  margin: 0 auto !important;         /* Centers the block container */
   padding: 0 !important;
-  box-sizing: border-box;
+  box-sizing: border-box !important;
+}
+
+/* Force every direct child of the wrapper to strictly be a block item that stacks */
+main .blog-page-wrapper > div,
+main .blog-page-wrapper > header,
+main .blog-page-wrapper > p {
+  display: block !important;
+  width: 100% !important;
+  clear: both !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box !important;
 }
 
 /* ---------- Hero banner ---------- */
