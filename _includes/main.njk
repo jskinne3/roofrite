@@ -38,6 +38,54 @@ description: "The trusted source for all your exterior needs"
       <figure class="rightfig">
         <img src="/assets/img/IMG_4238.png" alt="High angle view of a Roof Rite team member fabricating a sheet of copper using a metal brake in the workshop. The technician is aligning the material for precise bends, wearing a Roof Rite shirt with the company logo and phone number visible."/>
       </figure>
+<main>
+  <div class="blog-page-wrapper">
+
+    <div class="blog-hero">
+      <h1>Blog</h1>
+      <p class="blog-subtitle">Tips, updates &amp; insights from the Roof Rite team</p>
+    </div>
+
+    <div class="blog-search-wrap">
+      <div class="blog-search-box">
+        <span class="blog-search-icon">&#128269;</span>
+        <input type="text" id="blog-search" placeholder="Search articles…" oninput="filterBlog()">
+      </div>
+    </div>
+
+    <div class="blog-filters">
+      <button class="filter-btn active" onclick="setFilter('all', this)">ALL POSTS</button>
+      <button class="filter-btn" onclick="setFilter('residential', this)">RESIDENTIAL</button>
+      <button class="filter-btn" onclick="setFilter('commercial', this)">COMMERCIAL</button>
+      <button class="filter-btn" onclick="setFilter('insurance', this)">INSURANCE</button>
+      <button class="filter-btn" onclick="setFilter('maintenance', this)">MAINTENANCE</button>
+    </div>
+
+    <div class="blog-grid" id="blog-grid">
+      {% for post in collections.blogpost | reverse %}
+      <article class="blog-card" data-category="{{ post.data.category | default('general') }}" data-title="{{ post.data.title | lower }}">
+        <a href="{{ post.url }}">
+          {% if post.data.hero_image %}
+            <img src="{{ post.data.hero_image }}" alt="{{ post.data.hero_alt | default(post.data.title) }}" loading="lazy">
+          {% else %}
+            <div class="blog-card-no-img"></div>
+          {% endif %}
+          <div class="blog-card-body">
+            <h2 class="blog-title">{{ post.data.title }}</h2>
+            {% if post.data.summary %}
+              <p class="blog-summary">{{ post.data.summary }}</p>
+            {% endif %}
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+
+    <p class="blog-no-results" id="blog-no-results" style="display:none;">
+      No articles matched your search.
+    </p>
+
+  </div> </main>
     </main>
 
     {% include "cards.njk" %}
