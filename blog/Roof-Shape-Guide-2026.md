@@ -1,5 +1,5 @@
 ---
-title: "Roof Geometry: A Quick Overview of Different Roof Shapes"
+title: "Roof Geometry: A Strategic Guide to Your Home’s First Line of Defense"
 author: "Roof Rite Exteriors"
 date: 2026-07-08
 category: "Roofing Guide"
@@ -8,6 +8,15 @@ description: "Choosing the right roof shape involves balancing cost, attic space
 ---
 
 # Roof Geometry: A Quick Overview of Different Roof Shapes
+
+Your home’s roof is its first line of defense against the elements, but its function goes far beyond simple shelter. The shape, or geometry, of your roof plays a pivotal role in how your home handles everything from heavy snowfall and high-velocity winds to atmospheric rivers and relentless moisture.
+
+
+Understanding the differences between common roof styles isn't just an architectural exercise; it’s an essential step in ensuring your home remains durable, energy-efficient, and structurally sound for decades to come. Whether you’re looking at the iconic gable, the robust hip, or the modern flat roof, each design offers distinct advantages tailored to specific climates and building needs.
+
+
+In this guide, we’ll break down the pros and cons of these three primary roof systems to help you determine which configuration best protects your property. 
+
 
 ## Is A Gable Roof Right For My Home?
 
