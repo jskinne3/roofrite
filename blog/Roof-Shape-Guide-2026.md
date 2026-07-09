@@ -122,7 +122,7 @@ From the flat plains of the Midwest to intense coastal zones, flat roofs offer a
 While excellent for drainage, a low-slope roof requires precision to manage constant moisture:
 
 * **Seamless Barriers:** Modern single-ply membranes like TPO and EPDM roofs are designed to create a continuous, watertight envelope that minimizes seams where the relentless coastal rain could penetrate.
-* "Ponding Vulnerability:** The biggest vulnerability of a flat roof is ponding—when water stands for more than 48 hours. This accelerates material decay and must be addressed through a rigorous maintenance plan focused on keeping drains and scuppers clear.
+* **Ponding Vulnerability:** The biggest vulnerability of a flat roof is ponding—when water stands for more than 48 hours. This accelerates material decay and must be addressed through a rigorous maintenance plan focused on keeping drains and scuppers clear.
 
 ---
 
