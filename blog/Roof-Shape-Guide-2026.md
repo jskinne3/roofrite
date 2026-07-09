@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Roof Geometry: A Guide for Residential Roof Shapes"
-hero_image: "/assets/img/Siding1.jpg"
+hero_image: "/assets/img/DJI_0322_1.jpg"
 hero_alt: "A new roof, installed by Roof Rite and featuring several roof shapes including hip roof and gable roof."
 tags: blogpost
 category: residential
