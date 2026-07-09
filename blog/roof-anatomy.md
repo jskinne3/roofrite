@@ -6,7 +6,7 @@ hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing 
 tags: blogpost
 category: residential
 display_date: "June 26, 2026"
-summary: "A handy tip sheet to guide you through the language of roofing systems. From decking to "
+summary: "An extensive guide through the language of roofing systems, with definitions all the way from the base of your roof's deck to the top of its ridge. "
 ---
 # The Homeowner’s Guide to Roof Anatomy
 
