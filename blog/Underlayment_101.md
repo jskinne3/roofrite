@@ -1,21 +1,12 @@
 ---
-title: "What Underlayment Is and Why It’s a Game-Changer for Your Home"
-subtitle: "The Unsung Hero of Your Home's Roofing System"
-date: 2026-07-09
-author: "Roof Rite Exteriors"
-category: "maintenance"
-tags: 
-  - Roof Repair
-  - Roofing Systems
-  - Shingles
-  - Underlayment
-  - Home Maintenance
-  - Ice & Water Barrier
-  - GAF Roofing Systems
-  - Roof Substrate
-thumbnail: "/assets/img/blog/roof-diagram.jpg"
-meta_description: "Discover what roof underlayment is, how it protects your roof decking from moisture and leaks, and why it is essential for a long-lasting roofing system."
-status: "published"
+layout: page.njk
+title: "What Underlayment Is and Why It's a Game-Changer for Your Home"
+hero_image: "/assets/img/Aspen.jpg"
+hero_alt: "A new roof, installed by Roof Rite, sits atop a large home in the Rocky Mountains."
+tags: blogpost
+category: residential
+display_date: "July 2, 2026"
+summary: "The underlayment of your new roof is just as important as the shingles that top it. Read on to learn more about roof substrates and deck protection."
 ---
 
 # What Underlayment Is and Why It’s a Game-Changer for Your Home
