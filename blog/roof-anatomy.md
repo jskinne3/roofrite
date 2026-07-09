@@ -1,3 +1,13 @@
+---
+layout: page.njk
+title: "The Homeowner's Guide to Roof Anatomy"
+hero_image: "/assets/img/DJI_0027.jpg"
+hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing membrane on a flat roof at sunset."
+tags: blogpost
+category: residential
+display_date: "June 26, 2026"
+summary: "A handy tip sheet to guide you through the language of roofing systems."
+---
 # The Homeowner’s Guide to Roof Anatomy
 
 Have you ever looked up at your house and wondered what the names for different parts of your roof are? Getting familiar with the lingo doesn’t just make you more fun at parties—it equips you with the information you need to be confident in speaking with contractors when it's time for an upgrade or repair to your roof, gutters, siding, or any other part of your exterior envelope.
