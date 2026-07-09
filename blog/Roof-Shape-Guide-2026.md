@@ -1,11 +1,14 @@
 ---
+layout: page.njk
 title: "Roof Geometry: A Guide for Residential Roof Shapes"
-author: "Roof Rite Exteriors"
-date: 2026-07-08
-category: blogpost
-tags: ["Residential"]
-description: "Choosing the right roof shape involves balancing cost, attic space, and weather resilience. Use this guide to discover the key differences between gable, hip, and flat roof systems, and empower yourself with reliable information to make your roofing decision."
+hero_image: "/assets/img/Siding1.jpg"
+hero_alt: "A new roof, installed by Roof Rite and featuring several roof shapes including hip roof and gable roof."
+tags: blogpost
+category: residential
+display_date: "July 8, 2026"
+summary: "Use this guide to discover the key differences between gable, hip, and flat roof systems, and empower yourself with reliable information to make your roofing decision."
 ---
+
 
 # Roof Geometry: A Guide for Residential Roof Shapes
 
