@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "The Homeowner's Guide to Roof Anatomy"
-hero_image: "assets/img/Parts of a Roof image FINAL.png"
+hero_image: "assets/img/Roof-Parts-Labeled.png"
 hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing membrane on a flat roof at sunset."
 tags: blogpost
 category: residential
@@ -14,7 +14,7 @@ Have you ever looked up at your house and wondered what the names for different 
 
 Here’s a handy list of the key roof components and accessories that keep your home safe and dry.
 
-[A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/Parts of a Roof image FINAL.png "Roof Anatomy Diagram")
+![A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/Roof-Parts-Labeled.png "Roof Anatomy Diagram")
 
 ### Peaks, Slopes, and Angles
 
