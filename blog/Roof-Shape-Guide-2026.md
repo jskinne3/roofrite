@@ -1,13 +1,13 @@
 ---
-title: "Roof Geometry: A Strategic Guide to Your Home’s First Line of Defense"
+title: "Roof Geometry: A Guide for Residential Roof Shapes"
 author: "Roof Rite Exteriors"
 date: 2026-07-08
-category: "Roofing Guide"
-tags: ["Gable Roof", "Hip Roof", "Flat Roof", "Roofing Materials", "Gambrel", "Cross Gable Roof", "Hipped Roof", "TPO Roof", "EPDM Roof", "Modified Bitumen Roof"]
+category: blogpost
+tags: ["Residential"]
 description: "Choosing the right roof shape involves balancing cost, attic space, and weather resilience. Use this guide to discover the key differences between gable, hip, and flat roof systems, and empower yourself with reliable information to make your roofing decision."
 ---
 
-# Roof Geometry: A Strategic Guide to Your Home’s First Line of Defense
+# Roof Geometry: A Guide for Residential Roof Shapes
 
 Your home’s roof is its first line of defense against the elements, but its function goes far beyond simple shelter. The shape, or geometry, of your roof plays a pivotal role in how your home handles everything from heavy snowfall and high-velocity winds to atmospheric rivers and relentless moisture.
 
