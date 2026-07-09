@@ -9,7 +9,7 @@ display_date: "November 1, 2025"
 summary: "Why yearly inspections on flat and low-slope roofs save you money and headaches — and exactly what to look for."
 ---
 
-# Why Yearly Maintenance on Your Low-Slope Roof is Essential *(And What to Look For)*
+# Why Yearly Maintenance on Your Low-Slope Roof is Essential (And What to Look For)
 
 If you own or manage a building with a flat or low-slope roof, annual maintenance is critical.  
 These types of roofs are common in commercial, industrial, and even modern residential buildings,  
