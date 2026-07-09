@@ -4,13 +4,13 @@ title: "Why Yearly Maintenance on Your Low-Slope Roof is Essential"
 hero_image: "/assets/img/DJI_0027.jpg"
 hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing membrane on a flat roof at sunset."
 tags: blogpost
-category: commercial
+category: maintenance
 display_date: "November 1, 2025"
 summary: "Why yearly inspections on flat and low-slope roofs save you money and headaches — and exactly what to look for."
 ---
 
-# Why Yearly Maintenance on Your Low-Slope Roof is Essential  
-*(And What to Look For)*  
+# Why Yearly Maintenance on Your Low-Slope Roof is Essential 
+# (And What to Look For)
 
 If you own or manage a building with a flat or low-slope roof, annual maintenance is critical.  
 These types of roofs are common in commercial, industrial, and even modern residential buildings,  
