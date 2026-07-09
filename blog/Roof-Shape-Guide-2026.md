@@ -39,7 +39,7 @@ Not all gable roofs look like a child’s drawing, though. You’ll see examples
 If you live in the Great Plains, winters mean high winds and heavy snow, and summers mean sweltering attic heat and humidity. Gable roofs excel here for the following reasons:
 
 * **Effortless Snow Shedding:** When built with a steep pitch (such as a 6/12 slope or higher), a gable roof forces heavy snow and ice to slide right off, drastically reducing the risk of structural roof collapse.
-* **Beating the Summer Heat:** Gable roofs make it incredibly easy to install louvered vents on the flat exterior walls. When paired with soffit vents, this creates continuous cross-ventilation that can drop attic temperatures by 10–15°F during scorching July days, saving you roughly 7% on cooling costs.
+* **Beating the Summer Heat:** Gable roofs make it incredibly easy to install louvered vents on the flat exterior walls. When paired with soffit vents, this creates continuous cross-ventilation that can drop attic temperatures by 10–15°F during scorching July days, meaning you can save money on cooling costs.
 
 #### Pacific Northwest Realities: Managing Heavy Rain & High Winds
 For homeowners in Coastal Washington and Oregon, blizzards are less of a concern than the relentless moisture and intense coastal wind gusts. Gable roofs excel at drainage—the simple geometry means rain slides off quickly, reducing the risk of pooling water.
