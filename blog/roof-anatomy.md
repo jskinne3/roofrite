@@ -6,7 +6,7 @@ hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing 
 tags: blogpost
 category: residential
 display_date: "June 26, 2026"
-summary: "A handy tip sheet to guide you through the language of roofing systems."
+summary: "A handy tip sheet to guide you through the language of roofing systems. From decking to "
 ---
 # The Homeowner’s Guide to Roof Anatomy
 
@@ -14,7 +14,7 @@ Have you ever looked up at your house and wondered what the names for different 
 
 Here’s a handy list of the key roof components and accessories that keep your home safe and dry.
 
-![A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/img_1017.jpg)
+![A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/img_1017.jpg "Roof Anatomy Diagram")
 
 ### Peaks, Slopes, and Angles
 
