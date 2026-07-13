@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "The Homeowner's Guide to Roof Anatomy"
-hero_image: "assets/img/Roof-Parts-Labeled.png"
+hero_image: "assets/img/IMG_1036.jpeg"
 hero_alt: "A Roof Rite team member uses a heat welder to seam white TPO roofing membrane on a flat roof at sunset."
 tags: blogpost
 category: residential
