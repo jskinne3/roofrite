@@ -1,3 +1,14 @@
+---
+layout: page.njk
+title: "The 2026 Homeowner's Guide to Roofing & Exteriors in the Central Plains"
+hero_image: "/assets/img/galleries/Composite_Roofing/IMG_3659.jpg"
+hero_alt: "In the foreground is a red brick home with a dark grey DaVinci Single Width Shake roof installed by Roof Rite. The scene is set on a quiet suburban street with bare trees, and a bright grey sky is in the top quarter of the image."
+tags: blogpost
+category: residential
+display_date: "July 14, 2026"
+summary: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
+---
+
 # The 2026 Homeowner’s Guide to Roofing & Exteriors in the Central Plains
 
 *If you don’t like the weather in Nebraska, wait five minutes.* 
@@ -32,14 +43,14 @@ Nebraska's harsh weather makes it vital to choose brands known for durability an
 * **Metal Roofing:** Metal roofs offer superb protection against wind, hail, and fire. Their rustproof coatings resist corrosion and cracking for more than 50 years, and their durable nature precludes them from the costly repair and maintenance of most roofs.
     * Roof Rite’s expert installation team is experienced in building and installing complex metal systems with precision, ensuring maximum longevity and performance.
 
-Check out our detailed comparison of [Asphalt vs Composite Roofing](https://docs.google.com/document/d/1_HBMVOerxzXKM2P7PAcJvZabnXzmEfHqQ8xnKBdQ9_s/edit?ouid=107029230476394820442&tab=t.5e2kzvdc3y50).
+Check out our detailed comparison of [Asphalt vs Composite Roofing](https://www.roofriteexteriors.com/blog/Asphalt_vs_Composite/).
 
 If you’re unsure about what type of roofing materials are right for your home, use this handy two-part quiz to help narrow down your options:
 
 1. What is my 10-year plan for this property?
 2. What kind of climate do I live in, and what are its extreme conditions like?
 
-If you need help with your options, our professional roofing experts at Roof Rite Exteriors are here to help. Call us at (402) 430-9538 for a free consultation or [contact us online](https://roofriteexteriors.com/about/contact/).
+If you need help with your options, our professional roofing experts at Roof Rite Exteriors are here to help. Call us at **(402) 430-9538** for a free consultation or [contact us online](https://roofriteexteriors.com/about/contact/).
 
 ## How to Spot Roof Damage Early
 
@@ -92,8 +103,8 @@ If you’re already seeing yellow, brown, or dark spots on your ceiling or walls
 
 To tackle these urgent internal restoration needs, we partner with our dedicated division, **Service Rite**. While Roof Rite focuses on the integrity of your home’s exterior, we understand that water infiltrating your interior spaces demands swift and specialized attention. Count on the Service Rite experts in disaster recovery. From water mitigation due to a compromised exterior, like broken flashing or detached fascia, to complete restorations after fires and smoke damage, Service Rite is your trusted partner in full-scale interior rehabilitation.
 
-Visit our Service Rite Restoration Hub to explore how professional mitigation can safeguard your home’s interior. Taking fast action on moisture issues not only keeps repair costs down but also prevents long-term health risks like mold growth and structural failure.
+Visit our [Service Rite Restoration Hub](https://serviceriteusa.com/blog/)) to explore how professional mitigation can safeguard your home’s interior. Taking fast action on moisture issues not only keeps repair costs down but also prevents long-term health risks like mold growth and structural failure.
 
 ## Next Steps
 
-Don't leave your home’s safety to chance. Whether you need a minor repair or a full replacement, our friendly team of roofing experts at Roof Rite Exteriors is ready to help. Call us at (402) 430-9538 or [contact us online](https://roofriteexteriors.com/about/contact/).
+Don't leave your home’s safety to chance. Whether you need a minor repair or a full replacement, our friendly team of roofing experts at Roof Rite Exteriors is ready to help. Call us at **(402) 430-9538** or [contact us online](https://roofriteexteriors.com/about/contact/) to schedule your exterior consultation today!
