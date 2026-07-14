@@ -6,7 +6,7 @@ hero_alt: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
 tags: blogpost
 categories: [insurance, residential]
 display_date: "July 13, 2026"
-summary: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
+summary: "Overwhelmed by the prospect of a roof repair or replacement after a big storm? Use this Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs to learn all about the insurance claim process."
 ---
 
 # Navigating the Roof Insurance Claim Process
