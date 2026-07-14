@@ -2,11 +2,11 @@
 layout: page.njk
 title: "Navigating the Roof Insurance Claim Process"
 hero_image: "assets/img/IMG_1036.jpeg"
-hero_alt: "A Homeowner’s Guide to the Best Way to Fix a Storm-Damaged Roof."
+hero_alt: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
 tags: blogpost
-category: residential
+category: insurance
 display_date: "July 13, 2026"
-summary: "The underlayment of your new roof is just as important as the shingles that top it. Read on to learn more about roof substrates and deck protection."
+summary: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
 ---
 
 # Navigating the Roof Insurance Claim Process
@@ -48,7 +48,7 @@ Knowing your policy structure—and filing within your policy's strict deadlines
 
 ## Step 4: Why Choosing the Right Contractor Changes Everything
 
-The insurance adjuster's job is to evaluate the damage, but they don't always catch everything. That is why having a roofing contractor, such as the friendly professionals at Roof Rite, present during the adjuster’s inspection is the most crucial step in the entire process.
+The insurance adjuster's job is to evaluate the damage, but they don't always catch everything. That's why having a roofing contractor, such as the friendly professionals at Roof Rite, present during the adjuster’s inspection is the most crucial step in the entire process.
 
 You need an expert advocate who speaks the same technical language as the adjuster—someone who can point out subtle hail impacts or compromised flashing that an untrained eye might miss.
 
