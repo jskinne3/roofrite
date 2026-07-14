@@ -6,7 +6,7 @@ hero_alt: "Roof Rite installed a DaVinci Single Width Shake roof on this brick a
 tags: blogpost
 category: residential
 display_date: "June 26, 2026"
-summary: "An extensive guide through the language of roofing systems, with definitions all the way from the base of your roof's deck to the top of its ridge. "
+summary: "An extensive guide through the language of roofing systems, with definitions all the way from the base of your roof's deck to the top of its ridge."
 ---
 # The Homeowner’s Guide to Roof Anatomy
 
@@ -21,8 +21,6 @@ Give us a call at **(402) 430-9538** or [click here to request a no-obligation i
 ![A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/Roof-Parts-Labeled.png "A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.")
 
 ### Here’s a handy glossary of terms for the key roof components and accessories that work together to keep your home safe and dry.
-
-### Table of Contents
 * [Peaks, Slopes, and Angles](#peaks-slopes-and-angles)
 * [Windows and Overhangs](#windows-and-overhangs)
 * [Weatherproofing and Ventilation](#weatherproofing-and-ventilation)
