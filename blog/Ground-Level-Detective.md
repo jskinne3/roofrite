@@ -4,7 +4,7 @@ title: "The Ground-Level Detective: How to Spot Storm Damage Without a Ladder"
 hero_image: "/assets/img/DJI_0165.jpg"
 hero_alt: "Aerial view of a Nebraska residential roof after a hail storm."
 tags: blogpost
-category: insurance
+category: insurance, residential
 display_date: "March 15, 2026"
 summary: "You don't need to climb a ladder to know if that storm left a mark. Here's the 3-item checklist that could save you thousands."
 ---
