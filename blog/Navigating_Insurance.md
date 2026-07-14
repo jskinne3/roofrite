@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Navigating the Roof Insurance Claim Process"
-hero_image: "assets/img/IMG_1036.jpeg"
+hero_image: "/assets/img/IMG_1036.jpeg"
 hero_alt: "A Homeowner’s Guide to Insurance Coverage for Storm Damaged Roofs."
 tags: blogpost
 category: insurance
