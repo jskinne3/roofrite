@@ -66,4 +66,4 @@ We don't just swoop in to nail down shingles; we act as your dedicated partner f
 
 You don’t have to navigate the complexity of the insurance claim process alone. When you partner with the experts at Roof Rite Exteriors, you gain a dedicated professional advocate who translates the jargon, guarantees a fair assessment, and ensures your home is restored with the high-quality results you deserve.
 
-Do you suspect your roof has storm damage? Don't wait until a small leak becomes a massive and costly repair. Give Roof Rite Exteriors a call today at **(402) 430-9538** or [click here](https://roofriteexteriors.com/about/contact/) to schedule your comprehensive exterior assessment!
+Do you suspect your roof has storm damage? Don't wait until a small leak becomes a massive and costly repair. Give Roof Rite Exteriors a call today at **(402) 430-9538** or [click here to schedule your comprehensive exterior assessment!](https://roofriteexteriors.com/about/contact/)
