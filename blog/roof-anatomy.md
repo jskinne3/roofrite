@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "The Homeowner's Guide to Roof Anatomy"
-hero_image: "/assets/img/IMG_3659.jpg"
+hero_image: "/assets/img/galleries/Composite_Roofing/IMG_3659.jpg"
 hero_alt: "Roof Rite installed a DaVinci Single Width Shake roof on this brick and siding home, featuring a natural slate color and copper flashing accents under steep gables."
 tags: blogpost
 category: residential
