@@ -10,13 +10,24 @@ summary: "An extensive guide through the language of roofing systems, with defin
 ---
 # The Homeowner’s Guide to Roof Anatomy
 
-Have you ever looked up at your house and wondered what the names for different parts of your roof are? Getting familiar with the lingo doesn’t just make you more fun at parties—it equips you with the information you need to be confident in speaking with contractors when it's time for an upgrade or repair to your roof, gutters, siding, or any other part of your exterior envelope.
+Have you ever looked up at your house and wondered what the names for different parts of your roof are? 
 
----
+Getting familiar with the lingo doesn’t just make you more fun at parties—it equips you with the information you need to be confident in speaking with contractors when an upgrade or repair to your roof, gutters, siding, or any other part of your exterior envelope, becomes necessary.
+
+When the time does come to make repairs or upgrades to your home, Roof Rite Exteriors is ready to help. From gutter repairs and loose shingles to full replacements of roofs and siding, Roof Rite Exteriors is the trusted partner for repairs and renewals. 
+
+Give us a call at **(402) 430-9538** or [click here to request a no-obligation inspection](https://www.roofriteexteriors.com/about/contact/) of your home's exterior envelope. 
+
 ![A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.](/assets/img/Roof-Parts-Labeled.png "A diagram of a roof, with all parts labeled, including the ridge, valley, flashing, chimney flashing, dormer window, eaves, soffit, rain gutters, drip edge, and roof vents. These parts work together to create a weatherproof seal between Mother Nature and your dwelling.")
----
-## Here’s a handy list of the key roof components and accessories that keep your home safe and dry.
----
+
+### Here’s a handy glossary of terms for the key roof components and accessories that work together to keep your home safe and dry.
+
+### Table of Contents
+* [Peaks, Slopes, and Angles](#peaks-slopes-and-angles)
+* [Windows and Overhangs](#windows-and-overhangs)
+* [Weatherproofing and Ventilation](#weatherproofing-and-ventilation)
+* [Under the Shingles](#under-the-shingles)
+* [Next Steps](#considering-an-exterior-project)
 
 ### Peaks, Slopes, and Angles
 
@@ -30,7 +41,7 @@ Have you ever looked up at your house and wondered what the names for different 
 - **Sidewall:** The section of an outside wall that is below the gable or rake. It’s _the “square” below the triangle_ in a basic drawing of a house.
 ---
 
-### Windows & Overhangs
+### Windows and Overhangs
 
 - **Dormer:** A structural element that projects vertically out from a sloping roof; a dormer is _usually built to hold a window_ and add extra headroom to an upper floor.
 - **Eave:** The _lower edge of the roof_ that overhangs your exterior walls; the eave encompasses the first 3 or so feet of the roof's edge. Eaves are typically understood to include the drip edges, fascia, soffits, and gutters.
@@ -39,7 +50,7 @@ Have you ever looked up at your house and wondered what the names for different 
 - **Soffit:** The soffit is the part of your roof system that looks like an _"outdoor ceiling."_ It’s located on the underside of a roof's overhanging _eaves_. The soffit spans the gap between your home's exterior wall and the edge of the roof. Together with the _**fascia**_ (the vertical board that the gutter attaches to), it creates a clean, finished look.
 ---
 
-### Weatherproofing & Ventilation
+### Weatherproofing and Ventilation
 
 - **Flashing (including Chimney Flashing):** Custom-shaped metal strips installed at joints, seams, and roof intersections (like around chimneys, skylights, dormers, or valleys) to redirect water away from sensitive gaps. You may notice that flashing occasionally looks like “stairsteps” on roof intersections.
 - **Rain Gutters:** Gutters collect rainwater and direct it safely away from your home's foundation and landscaping, preventing issues like soil erosion, basement moisture, and long-term structural deterioration.
@@ -49,13 +60,16 @@ Have you ever looked up at your house and wondered what the names for different 
   - **Ridge Vent:** An exhaust vent that runs horizontally across the very peak, or ridge, of your roof, and allows hot, humid air to naturally escape from your attic.
 ---
 
-### The Structural Base & Protection Under-Layers
+### Under the Shingles
 
 - **Roof Deck or Decking:** Think of this as the foundation of your roof. Usually made of sturdy wood or plywood, it’s the _flat structural base_ that holds everything else up.
 - **Roofing Underlayment:** Placed directly over the deck and beneath the shingles, this protective layer acts as an _extra shield against moisture_. While traditional felt was the go-to for years, modern synthetic options offer superior durability and water resistance.
 - **Ice & Water Barrier:** A specially-engineered, self-adhering _waterproofing layer_ installed in high-risk zones like valleys and eaves (around the edge of your roof). It provides critical defense against wind-driven rain and roof-compromising ice dams.
+---
 
-## Are you considering a home renovation project?
+### Considering an exterior project?
 
-**The friendly professionals at Roof Rite Exteriors are ready to help. Give us a call at **(402) 430-9538** or [click here to schedule a no-obligation inspection or claim consultation!](https://www.roofriteexteriors.com/about/contact/)
+The friendly professionals at Roof Rite Exteriors are ready to help. 
+
+Give us a call at **(402) 430-9538** or [click here to schedule a no-obligation inspection or claim consultation!](https://www.roofriteexteriors.com/about/contact/)
 
