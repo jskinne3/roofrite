@@ -1,14 +1,17 @@
 ---
 layout: page.njk
 title: "More Than Just Shingles: The 5 Essential Components of a Complete Roofing System"
-hero_image: "/assets/img/galleries/Composite_Roofing/IMG_3659.jpg"
-hero_alt: "-----------------"
+hero_image: "/assets/img/DJI_0447.jpg"
+hero_alt: "A partially-finished roof figures prominently in the image. In the background, three workers in personal protective equipment are fastening starter shingles to the underlayment. The ridge of the roof is being used to store shingles, providing easy access to the roofing workers as they diligently affix the building's new roof to its decking."
 tags: blogpost
 category: residential
-display_date: "July 29, 2026"
+display_date: "July 30, 2026"
 summary: "Learn about the five critical components beyond shingles—like flashing, starter strips, and ridge caps—that keep your roof durable and leak-free."
 ---
-When most homeowners picture a new roof, they think almost exclusively of **shingles**. While shingles are certainly the most visible layer, a truly durable roof relies on an entire interconnected ecosystem of protective materials. 
+
+# More Than Just Shingles: The 5 Essential Components of a Complete Roofing System
+
+When most homeowners picture a new roof, they think almost exclusively of **shingles**. While shingles are certainly the most visible layer, a truly durable roof relies on an **entire interconnected ecosystem** of protective materials. 
 
 Without key supporting components, even the highest-grade shingles can fail, leaving your home vulnerable to leaks, severe weather damage, and voided manufacturer warranties. 
 
@@ -22,7 +25,7 @@ Before the first row of regular shingles is applied at the eaves (the bottom edg
 
 These are specifically engineered, long strips of heavy-duty roofing material designed to provide a waterproof seal along the very edge of the roofline. 
 
-* **Why they matter:** Starter strips feature a high-tack adhesive line that locks down the first row of shingles. This prevents high winds from catching the edges and lifting the shingles off your home.
+**Why they matter:** Starter strips feature a high-tack adhesive line that locks down the first row of shingles. This prevents high winds from catching the edges and lifting the shingles off your home.
 
 ---
 
@@ -36,7 +39,7 @@ Common exhaust vent styles include:
 * **Box Vents (Louvers):** Square vents installed near the top ridge line.
 * **Powered or Solar Attic Fans:** Mechanical systems that actively pull hot air out of the attic space.
 
-> **Why it matters:** Proper airflow keeps your attic cool in the summer and dry in the winter. Controlling attic temperatures prevents premature shingle deterioration and stops interior moisture damage in its tracks.
+**Why it matters:** Proper airflow keeps your attic cool in the summer and dry in the winter. Controlling attic temperatures prevents premature shingle deterioration and stops interior moisture damage in its tracks.
 
 For the complete Roof Rite Guide to Roof Ventilation, [click here](/blog/guide-to-roof-ventilation/).
 
@@ -51,7 +54,7 @@ You will typically find flashing installed in:
 * Around chimneys and skylights
 * Along dormers and sidewalls
 
-* **Why it matters:** Flashing acts as a seamless diverter, guiding heavy rainwater off the roof rather than allowing it to seep into vulnerable joints and compromise your home’s structural integrity.
+**Why it matters:** Flashing acts as a seamless diverter, guiding heavy rainwater off the roof rather than allowing it to seep into vulnerable joints and compromise your home’s structural integrity.
 
 ---
 
@@ -59,7 +62,7 @@ You will typically find flashing installed in:
 
 Plumbing stacks and exhaust pipes must pass through your roof deck to exit the house, creating necessary holes in your home's top barrier. A **pipe boot** is a specialized flashing component—often made of metal or rigid plastic with a flexible rubber collar—that slides over these pipes.
 
-* **Why it matters:** The boot’s flexible collar forms a tight, waterproof seal around the pipe, keeping driven rain from leaking down into your kitchen, bathroom, or attic ceilings.
+**Why it matters:** The boot’s flexible collar forms a tight, waterproof seal around the pipe, keeping driven rain from leaking down into your kitchen, bathroom, or attic ceilings.
 
 ---
 
@@ -69,19 +72,18 @@ Plumbing stacks and exhaust pipes must pass through your roof deck to exit the h
 
 Standard shingles are too rigid to bend over sharp roof angles without cracking. Ridge caps are specially manufactured to flex, sealing the top seams where opposing roof planes meet.
 
-* **Why it matters:** By capping off the open seam at the peak of your house, ridge caps block water and wind from driving underneath your primary shingle layers.
+**Why it matters:** By capping off the open seam at the peak of your house, ridge caps block water and wind from driving underneath your primary shingle layers.
 
 ---
 
-> 💡 **Pro Tip for Homeowners:** When an insurance adjuster inspects a roof after a severe storm, they don't just check the shingles. They inspect all five of these accessory components—flashing, pipe boots, and starter strips are often the very first elements to show wind or hail damage!
+💡 **Pro Tip for Homeowners:** When an insurance adjuster inspects a roof after a severe storm, they don't just check the shingles. They inspect all five of these accessory components—flashing, pipe boots, and starter strips are often the very first elements to show wind or hail damage!
 
 ---
 
 ## Is Your Roofing System Fully Protected?
 
-Don't wait for a leak in your living room to find out if one of your roof’s vital components has failed. Whether you need a routine maintenance checkup, a post-storm damage assessment, or a complete system replacement, our team is here to give you peace of mind.
+Don't wait for a leak in your living room to find out if one of your roof’s vital components has failed. Whether you need a routine maintenance checkup, a post-storm damage assessment, or a complete system replacement, the friendly team of roofing professionals at Roof Rite Exteriors is here to help ensure your peace of mind.
 
-**Protect your home and investment today!** 
+**Protect your home and investment!** 
 
-* 📞 **Call us directly at (555) 123-4567** to speak with a roofing specialist.
-* 🖱️ **[Click Here to Schedule Your Free Roof Inspection](/contact/)** online in under two minutes!
+Call our project desk at **(402) 430-9538** or [click here](https://roofriteexteriors.com/about/contact/ "Roof Rite Contact") to schedule your inspection with the friendly professionals at Roof Rite Exteriors today!
